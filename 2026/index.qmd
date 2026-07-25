@@ -5,25 +5,6 @@ format: html
 ---
 
 ::: {.callout-important collapse=true}
-## 📢  **Notas Reporte Final** (05/12/2025)
-
-- ![](PRA-Examen2.png)
-:::
-
-
-::: {.callout-important collapse=true}
-## 📢  **Notas Examen No. 1** (13/10/2025)
-
-- ![](PRA-Examen-1.png)
-:::
-
-::: {.callout-important collapse=true}
-## 📢  **Notas Informe No. 1** (14/10/2025)
-
-- ![](PRA-Informe-1.png)
-:::
-
-::: {.callout-important collapse=true}
 ## 📢 Syllabus
 
 (27/08/2025)
