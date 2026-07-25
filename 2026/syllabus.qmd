@@ -1,6 +1,6 @@
 ---
 title: "2027449 - PERCEPCION REMOTA AVANZADA"
-subtitle: "Academic Year: 2023"
+subtitle: "Academic Year: 2026"
 format: html
 ---
 ## PREREQUISITOS:
@@ -10,29 +10,28 @@ format: html
 ## DESCRIPCIÓN DE LA ASIGNATURA:
 ::: {.callout-important collapse=false}
 ### OBJETIVOS:
--	Entender el proceso de percepción remota de la superficie terrestre y su relación con la investigación
--	Conocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)
--	Entender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR
--	Aplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR
+- Conocer nuevos conceptos y técnicas de análisis de datos de percepción remota
+-	Profundizar en tópicos avanzados  de percepción remota de la superficie terrestre 
+-	Entender los conceptos básicos de *deep learning* aplicado a datos de observación terrestre
+-	Aplicar métodos y técnicas de *deep learning* para obtener información temática a partir de imágenes ópticas y SAR
 
 ### COMPETENCIAS GENÉRICAS: 
--	Comprensión de los fundamentos teóricos de la percepción remota
--	Obtención de habilidades prácticas para seleccionar, procesar y analizar imágenes
--	Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota
+-	Comprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre
+-	Obtención de habilidades computacionales para seleccionar, procesar y analizar imágenes
+-	Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas
 
 ### COMPETENCIAS ESPECÍFICAS:
 - Entendimiento del flujo de trabajo genérico  de percepción remota
 - Adaptación y creación de scripts para  procesamiento y análisis de imágenes
--	Evaluación de la calidad de productos de percepción remota
+-	Entendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota
 
 ### METODOLOGIA:
 -	Lectura antes de la clase a cargo del estudiante
--   Presentación de conceptos, métodos y técnicas a cargo del profesor
+- Presentación de conceptos, métodos y técnicas a cargo del profesor
 -	Realización de ejercicios prácticos y elaboración de reportes técnicos a cargo  del estudiante
 
 ### SOFTWARE
--  *PARTE 1:* Sentinel-1 Toolbox (S1TBX) 
--  *PARTE 2:* Python & Jupyter & Google Colaboratory
+-   Python & Jupyter notebooks & Google Colaboratory
 :::
 
 
@@ -40,56 +39,33 @@ format: html
 
 ::: {.callout-important collapse=true}
 
-## PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)
+### Unidad 1 –   Percepción remota multi-espectral
 
-### Semana 1 –   Repaso, Contexto & Conceptos claves
+### Unidad 2 -   Percepción remota hiper-espectral y térmica
 
-### Semana 2 -  Conceptos básicos de radar
+### Unidad 3 – Principios de aprendizaje profundo 
 
-### Semana 3 - Procesamiento básico de imágenes SAR - SNAP
+### Unidad 4 –  Redes neuronales convolucionales 
 
-### Semana 4 – Propiedades radiativas de suelos y vegetación
+### Unidad 5 – Aprendizaje autosupervisado 
 
-### Semana 5 – Procesamiento básico de imágenes SAR - GEE - JS
+### Unidad 6 – Segmentación semántica
 
-### Semana 6 –  Procesamiento básico de imágenes SAR - GEE - Python
+### Unidad 7 - Modelos fundamentales para datos geoespaciales
 
-### Semana 7 – Analysis Ready SAR Data 
-
-### Semana 8 – Open Data Cube
 :::
 
-::: {.callout-important collapse=true}
-
-## PARTE 2 – APRENDIZAJE PROFUNDO  (DEEP LEARNING)
-
-### Semana 9 – Fundamentos de Deep Learning (DL)
-
-### Semana 10  – Redes neuronales convolucionales
-
-### Semana 11 - Clasificación de imágenes 
-
-### Semana 12 - Segmentación semántica I
-
-### Semana 13 - Deep Learning for remote sensing
-
-### Semana 14 -  Segmentación semántica II
-
-### Semana 15 - Aplicaciones DL en vegetación
-
-### Semana 16 - Aplicaciones DL en recursos hídricos
-:::
 
 ## EVALUACIÓN DEL CURSO: 
 
 ::: {.callout-important collapse=false}
 
--	Presentación de dos exámenes escritos sobre aspectos teóricos (50%)
-    - Examen 1 - 20 de Septiembre
-    - Examen 2 - 22 de Noviembre
+-	Presentación de dos exámenes teóricos (50%)
+    - Examen 1 - 14 de Octubre
+    - Examen 2 - 2 de Diciembre
 -	Entrega de dos informes técnicos  (50%)
-    - Informe 1 - 27 de Septiembre
-    - Informe 2 - 29 de Noviembre
+    - Informe 1 - 21 de Octubre
+    - Informe 2 - 9 de Diciembre
 
 :::
 
