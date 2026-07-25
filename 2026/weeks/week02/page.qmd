@@ -2,10 +2,14 @@
 title: "🗓️ Week 2 - Thermal Remote Sensing "
 ---
 
-In this  week, we will get to know *Foundations of Deep Learning*.
+In this  week, we will get to know *how to estimate land surface temperature* from EO data.
 
 
 ## 👨‍🏫 Lecture Slides 
+
+- [Land surface temperature retrieval](https://www.star.nesdis.noaa.gov/star/documents/seminardocs/2020/20200619_G%C3%B6ttsche.pdf)
+
+## Main references
 
 - [Satellite-derived land surface temperature](https://idlcc.fc.ul.pt/pdf/Zhao-Liang_2013.pdf)
 
