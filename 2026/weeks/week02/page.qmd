@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 2 - Deep Learning "
+title: "🗓️ Week 2 - Thermal Remote Sensing "
 ---
 
 In this  week, we will get to know *Foundations of Deep Learning*.
@@ -7,22 +7,19 @@ In this  week, we will get to know *Foundations of Deep Learning*.
 
 ## 👨‍🏫 Lecture Slides 
 
-- [DL foundations](https://drive.google.com/file/d/1B4pqQIU9nX9E1XzpyxXyV6KoL-Sv6A9y/view)
-- [Building a linear regression model](https://drive.google.com/file/d/14QWp5Yzv6lkJhvTy4hTm-viW_M5LiqHW/view?usp=sharing)
+- [Satellite-derived land surface temperature](https://idlcc.fc.ul.pt/pdf/Zhao-Liang_2013.pdf)
+
+- [LST validation protocol](https://lpvs.gsfc.nasa.gov/PDF/CEOS_LST_PROTOCOL_Feb2018_v1.1.0_light.pdf)
 
 ## 📚 Practical exercise
 
-- Reproduce Edward Raff code for chapter 1 and chapter 2.
+- *R way:* Reproduce [Nighttime Cooling Patterns](https://github.com/savcooley/2026_thermalRS_urban_heat_demo)
 
-## 📚 Required reading
+- *Python way:* Reproduce [Exploring ECOSTRESS L2T LSTE](https://nasa.github.io/VITALS/python/Exploring_ECOSTRESS_L2T_LSTE.html)
 
-- [Mechanics of learning](https://drive.google.com/file/d/1yA9qOCovhXpyS3Ph6fcWa07ZpaWVTZMm/view?usp=sharing)
 
 ## ✍️ Coursework
 
-- Select a DL application for  your Informe No. 1.
-
-- Start the *Deep Learning in Python track* at DataCamp
-
+- Select a theory topic for  your Examen 1 and start preparing it
 
 

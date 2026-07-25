@@ -4,7 +4,7 @@ title: "🗓️ Unit 1 -  Optical Remote Sensing refresher"
 
 In this first unit, we will refresh  *surface reflectance*, the key optical remote sensing concept.
 
-Furthermore, we will introduce several concepts on Artificial Intelligence for Earth Observation (AI4EO).
+Furthermore, we will introduce several concepts on *remote sensing of land surface temperature*.
 
 
 ## 👨‍🏫 Lecture Slides 
