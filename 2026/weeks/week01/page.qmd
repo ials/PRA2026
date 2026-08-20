@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Unit 1 -  Optical Remote Sensing refresher"
+title: "🗓️ Unit 1 -  Multispectral remote sensing "
 ---
 
 In this first unit, we will refresh  *surface reflectance*, the key optical remote sensing concept.
