@@ -102,7 +102,7 @@ Do any of these tasks:
 
 - [GEE Python tutorial](https://ials.github.io/GEE_Python/2_eeImage.html)
 
-## Suggested Topics for your Exam No. 1
+## Suggested topics for research
 
 - [Satellite Remote Sensing of Global Land Surface Temperature](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022RG000777)
 

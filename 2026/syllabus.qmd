@@ -32,6 +32,15 @@ format: html
 
 ### SOFTWARE
 -   Python & Jupyter notebooks & Google Colaboratory
+
+### USO DE INTELIGENCIA ARTIFICIAL
+
+Los estudiantes pueden usar herramientas de  Inteligencia Artifical  como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal. En este curso se permite el uso de IA generativa hasta un máximo del 50 % de cada trabajo presentado.
+
+### ASISTENCIA OBLIGATORIA
+
+
+
 :::
 
 
@@ -39,19 +48,21 @@ format: html
 
 ::: {.callout-important collapse=true}
 
-### Unidad 1 –   Percepción remota multi-espectral
+### Unidad 1 –  Percepción remota multi-espectral
 
-### Unidad 2 -   Percepción remota hiper-espectral y térmica
+### Unidad 2 -  Percepción remota hiper-espectral 
 
-### Unidad 3 – Principios de aprendizaje profundo 
+### Unidad 3 -  Percepción remota termal
 
-### Unidad 4 –  Redes neuronales convolucionales 
+### Unidad 4 – Principios de aprendizaje profundo 
 
-### Unidad 5 – Aprendizaje autosupervisado 
+### Unidad 5 –  Redes neuronales convolucionales 
 
-### Unidad 6 – Segmentación semántica
+### Unidad 6 – Aprendizaje autosupervisado 
 
-### Unidad 7 - Modelos fundamentales para datos geoespaciales
+### Unidad 7 – Segmentación semántica
+
+### Unidad 8 - Modelos fundamentales para datos geoespaciales
 
 :::
 
@@ -78,6 +89,8 @@ Chollet, F. Deep Learning with Python [2nd ed.],  Manning, 2021. 504 pp.
 Corley, I., Lehmann, N., Robinson, C., Tseng, G., Fuller, A., Alemohammad, H., Shelhamer, E., Marcus, J., and Kerner, H.  No One Knows the State of the Art in Geospatial Foundation Models. 2026. https://arxiv.org/html/2605.12678v1
 
 Gao, S., Hu, Y., and Li, W. Handbook of Geospatial Artificial Intelligence. CRC Press. 2024. 468 pp.
+
+Lunga D. and Hänsch, R. GeoAI for Earth Observation Imagery: Fundamentals and Practical Applications. Elsevier. 2026. 501 pp.
 
 Mayer, T., Bhandari, B., and Saah, D. Applied Artificial Intelligence and Deep Learning Book. 2026. https://zenodo.org/records/20547797
 
