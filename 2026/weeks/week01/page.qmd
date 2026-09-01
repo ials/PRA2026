@@ -4,7 +4,7 @@ title: "🗓️ Unit 1 -  Multispectral remote sensing "
 
 In this first unit, we will refresh  *surface reflectance*, the key optical remote sensing concept.
 
-Furthermore, we will introduce several concepts on *remote sensing of land surface temperature*.
+Furthermore, we will reinforce concepts on *radiometric correction*.
 
 
 ## 👨‍🏫 Lecture Slides 
@@ -23,10 +23,13 @@ Use your keypad to navigate the slides.
 🚧  [Data Insights with Python for Beginners](https://jenfly.github.io/llc-python-resources/next-steps.html)
 🚧
 
-
 ## 📚 Required Reading
 
-- Study this [document](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2745.13957) before next class. 
+Study this [document](https://drive.google.com/file/d/1iHtrXhCI7UqJPEZFKZ7etsmdh-ghRhF_/view?usp=sharing) before next class. 
+
+## Writing task
+
+Write a one-page proposal for your *Technical Reports*. This assignment must be entirely handwritten. Bring it to the next class.
 
 ## 📟 Communication
 

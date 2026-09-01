@@ -37,7 +37,7 @@ format:
 
 # NASA EO satellites
 
-Earth Observing Fleet (January 2023)
+[Earth Observing Fleet (January 2023)](https://www.pixalytics.com/earth-observation-satellites-2023/)
 
 <!-- blank line -->
 <figure class="video_container">
@@ -76,6 +76,24 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 <img src="figs/Jensen_TOA.png" width=54% height=54%>
 </p>
 
+## TOA reflectance
+
+<p align="center">
+<img src="figs/TOA.png" width=95% height=95%>
+</p>
+
+## Surface reflectance
+
+<p align="center">
+<img src="figs/SR.png" width=85% height=85%>
+</p>
+
+## [Radiometric correction](https://drive.google.com/file/d/1iHtrXhCI7UqJPEZFKZ7etsmdh-ghRhF_/view?usp=sharing)
+
+<p align="center">
+<img src="figs/RadCor.png" width=80% height=80%>
+</p>
+
 # What we know about Python
 
 ## Basic python quiz 
@@ -88,11 +106,7 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 
 A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
 
-# Thermal remote sensing
-
-[Thermal remote sensing](https://drive.google.com/file/d/1pgKW7OllThNxFW-zunaLi5sCmVedaJ_e/view?usp=sharing)
-
-# To do before next class 
+# Additional tasks for this week 
 
 ## Refreshing GEE skills
 
