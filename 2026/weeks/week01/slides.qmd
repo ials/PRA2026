@@ -85,7 +85,7 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 ## Surface reflectance
 
 <p align="center">
-<img src="figs/SR.png" width=100% height=100%>
+<img src="figs/SR.png" width=100% height=120%>
 </p>
 
 ## [Radiometric correction](https://drive.google.com/file/d/1iHtrXhCI7UqJPEZFKZ7etsmdh-ghRhF_/view?usp=sharing)
