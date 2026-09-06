@@ -5,6 +5,15 @@ format: html
 ---
 
 ::: {.callout-important collapse=true}
+## 📢 Join PRA group at Data Camp
+
+(05/09/2026)
+
+- 🗓️ Complete the  *Introduction to DL with Python* course by due date. 
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢 Syllabus
 
 (27/08/2026)

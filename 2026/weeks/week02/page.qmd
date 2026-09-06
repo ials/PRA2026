@@ -22,8 +22,5 @@ In this  week, we will get to know *how to estimate land surface temperature* fr
 - *Python way:* Reproduce [Exploring ECOSTRESS L2T LSTE](https://nasa.github.io/VITALS/python/Exploring_ECOSTRESS_L2T_LSTE.html)
 
 
-## ✍️ Coursework
-
-- Select a theory topic for  your Examen 1 and start preparing it
 
 
