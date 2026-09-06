@@ -1,10 +1,10 @@
 ---
 subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
-title: "<font style='font-size:1em;'>🗓️ Week 02<br/> SAR Basics</font>"
-author: Ivan Lizarazo(#)
+title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
+author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 6 Nov 2024
-date-meta: 6 Nov 2024
+date: 9 September 2026
+date-meta: 9 September 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -23,133 +23,162 @@ format:
     footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
 ---
 
-# Introduction
+# Homework check
 
-Checking homework:
+## Radiometric correction reading
 
-1. Reading (platform's height)
+What’s your main takeaway? 
+<p align="center">
+<img src="figures/atmosfera.gif" width=90% height=90%>
+</p>
 
-2. Practical (visualization)
+## GEE skills practical
 
-3. Video (SAR oblique view)
+What's your main achievement?
+<p align="center">
+<img src="figures/earth.gif" width=90% height=90%>
+</p>
 
 
-# What's RADAR?
+# The remote sensing process
 
-Based on the principle of *echolocation*
+## Image analysis tasks
 
-RAdio Detection and Ranging
+<p align="center">
+<img src="figures/RSprocess.gif" width=90% height=90%>
+</p>
 
-SAR is not just a radar: it is an imaging radar system,
+## Processing
 
-SAR's antenna moves while emiting signals and receiving  echos
+<p align="center">
+<img src="figures/RSprocessing.png" width=90% height=90%>
+</p>
 
-# Basic Radar Operation
+## Hand crafted features
 
-A pulse of duration $\tau$ travels at the speed of light $c$
+<p align="center">
+<img src="figures/HandFeatures.png" width=90% height=90%>
+</p>
 
-The two-way range distance between antena and target is the velocity times the time delay
+## Quality assessment
 
-Thus, the range distance to the target is $R = \frac {c\tau}{2}$
+<p align="center">
+<img src="figures/RSQuality.png" width=90% height=90%>
+</p>
 
-# The Radar Equation
+# Machine learning fundamentals
 
-![](figures/radar_equation.png)
+## Overview
 
-# Frequency and Wavelength
+<p align="center">
+<img src="figures/O1.png" width=90% height=90%>
+</p>
 
-## The wavelengths
-![](figures/radar_longs.png)
 
-## The benefits
+## How it works
 
-![](figures/benefits.png)
+<p align="center">
+<img src="figures/O2.png" width=90% height=90%>
+</p>
 
-## Weather independence
+## Steps
 
-Sentinel-1 | Sentinel-2
-- | - 
-![alt](figures/sentinel1.gif) | ![alt](figures/sentinel2.gif)
+<p align="center">
+<img src="figures/O3.png" width=90% height=90%>
+</p>
 
-## Radar bands
+## Tasks
 
-![](figures/radar_bands.png)
+<p align="center">
+<img src="figures/O4.png" width=90% height=90%>
+</p>
 
-## Radar signal penetration
+## Big data
 
-![](figures/penetration.png)
+<p align="center">
+<img src="figures/O5.png" width=90% height=90%>
+</p>
 
-# Polarization and scattering
+## ML in Earth Science
 
-## Electromagnetic waves
+<p align="center">
+<img src="figures/O6.png" width=90% height=90%>
+</p>
 
-![](figures/em_waves.png)
+## Complex problems
 
-## Polarization
+<p align="center">
+<img src="figures/O7.png" width=90% height=90%>
+</p>
 
-![](figures/polarization.png)
+## Two approaches
 
-## SAR polarization
+<p align="center">
+<img src="figures/08.png" width=90% height=90%>
+</p>
 
-![](figures/sar_polarization.png)
+# Machine Learning Applications
 
-## Backscattering
+## Benefits
 
-![](figures/scatterers.png)
+<p align="center">
+<img src="figures/AA1.png" width=90% height=90%>
+</p>
 
-## Relative scattering
+## Discovery
 
-![](figures/relative.png)
+<p align="center">
+<img src="figures/AA2.png" width=90% height=90%>
+</p>
 
-## SAR signaturres
+## Software
 
-![](figures/pol_signatures.png)
+<p align="center">
+<img src="figures/AA3.png" width=90% height=90%>
+</p>
 
-# Spatial resolution
+## Frameworks
 
-## SAR system
+<p align="center">
+<img src="figures/AA4.png" width=90% height=90%>
+</p>
 
-![](figures/sar_system.png)
+## Hardware
 
-## Range resolution
+<p align="center">
+<img src="figures/AA5.png" width=90% height=90%>
+</p>
 
-![](figures/range_res.png)
 
-## Azimuth resolution
+# Machine Learning Algorithms
 
-![](figures/azi_res.png)
+## The problem
 
-## Speckle
+<p align="center">
+<img src="figures/AP1.png" width=90% height=90%>
+</p>
 
-![](figures/speckle.png)
+## Data
 
-## Geometric distorsions
+<p align="center">
+<img src="figures/AP2.png" width=90% height=90%>
+</p>
 
-![](figures/geometric.png)
+## Performance
 
-## Backscatter variables
+<p align="center">
+<img src="figures/AP3.png" width=90% height=90%>
+</p>
 
-![](figures/table_variables.png)
+## Operations
 
-## Backscatter reference areas
+<p align="center">
+<img src="figures/AP4.png" width=90% height=90%>
+</p>
 
-![](figures/back_variables.png)
+## [Back to this week page](page.qmd)
 
-# To do before next class 
 
-## Read this document
 
-[A layman interpretation guide to L-band and C-band SAR data](https://ceos.org/ard/files/Laymans_SAR_Interpretation_Guide_2.0.pdf) 
 
-CEOS (2018) 
 
-## Watch this video
-
-[See the world through SAR](https://www.iceye.com/vos-talk2-video-page) 
-
-Tom Ager - ICEYE -  2023
-
-## Practical exercises
-
-- Progress on the [Data Insigths with Python](https://jenfly.github.io/llc-python-resources/next-steps.html) tutorial
-- Progress on the [GEE Image with Python]() tutorial
