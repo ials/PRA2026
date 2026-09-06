@@ -2,10 +2,12 @@
 title: "🗓️ Week 2 - Thermal Remote Sensing "
 ---
 
-In this  week, we will get to know *how to estimate land surface temperature* from EO data.
+In this  week, we will introduce *fundamentals of machine learning (ML) for EO data analysis*. Furthermore, we will learn how to estimate land surface temperature from EO data.
 
 
 ## 👨‍🏫 Lecture Slides 
+
+- [Fundamentals of ML for EO data analysis](slides.qmd)
 
 - [Land surface temperature retrieval](https://www.star.nesdis.noaa.gov/star/documents/seminardocs/2020/20200619_G%C3%B6ttsche.pdf)
 

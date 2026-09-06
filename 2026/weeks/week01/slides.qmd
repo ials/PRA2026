@@ -3,8 +3,8 @@ subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
 title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
 author: Ivan Lizarazo
 institute: '[Universidad Nacional de Colombia](#)'
-date: 2 September 2026
-date-meta: 2 September 2026
+date: 9 September 2026
+date-meta: 9 September 2026
 date-format: "DD MMM YYYY"
 toc: true
 toc-depth: 1
@@ -23,106 +23,158 @@ format:
     footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
 ---
 
+# Homework check
 
-# Who are we
+## Radiometric correction reading
 
-## Your lecturer {.smaller}
-
-### [Ivan Lizarazo](https://cienciasagrarias.bogota.unal.edu.co/facultad/profesores/ivan-alberto-lizarazo-salcedo)
-
-## Students {.smaller}
-
-### Please introduce yourselves
-
-
-# NASA EO satellites
-
-[Earth Observing Fleet (January 2023)](https://www.pixalytics.com/earth-observation-satellites-2023/)
-
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005061/fleet_2023_jan_1080p60.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
-
-# ESA Copernicus Sentinel satellites
-
-[Current Sentinel satellites](https://www.dlr.de/en/eoc/research-transfer/topics/copernicus-the-european-earth-observation-programme/the-copernicus-sentinel-satellites)
-
-# What we know about remote sensing 
-
-Open your notebook and write down if you agree or not with each of the next statements
-
-## Statement 1
-Multispectral satellite sensors measure the reflectance of features on the ground
-
-## Statement 2
-Land cover classification is a simple process of grouping  pixels based on spectral properties 
-
-## Statement 3
-Spectral resolution is the number of bands  available from a particular sensor 
-
-## Statement 4
-Landsat TOA imagery allows users to consistently classify natural vegetation genus and species information with a high level of accuracy
-
-## Statement 5
-Square pixels in an image accurately represent a square area on the Earth's surface
-
-## Atmospheric correction
-
+What’s your main takeaway? 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=54% height=54%>
+<img src="figures/atmosfera.gif" width=90% height=90%>
 </p>
 
-## TOA reflectance
+## GEE skills practical
 
+What's your main achievement?
 <p align="center">
-<img src="figs/TOA.png" width=100% height=100%>
+<img src="figures/earth.gif" width=90% height=90%>
 </p>
 
-## Surface reflectance
+
+# The remote sensing process
+
+## Image analysis tasks
 
 <p align="center">
-<img src="figs/SR.png" width=100% height=120%>
+<img src="figures/RSprocess.gif" width=90% height=90%>
 </p>
 
-## [Radiometric correction](https://drive.google.com/file/d/1iHtrXhCI7UqJPEZFKZ7etsmdh-ghRhF_/view?usp=sharing)
+## Processing
 
 <p align="center">
-<img src="figs/RadCor.png" width=100% height=100%>
+<img src="figures/RSprocessing.png" width=90% height=90%>
 </p>
 
-# What we know about Python
+## Hand crafted features
 
-## Basic python quiz 
+<p align="center">
+<img src="figures/HandFeatures.png" width=90% height=90%>
+</p>
 
-### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
+## Quality assessment
 
-# Flipped classroom
+<p align="center">
+<img src="figures/RSQuality.png" width=90% height=90%>
+</p>
 
-## Reading, doing and writing
+# Machine learning fundamentals
 
-A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
+## Overview
 
-# Additional tasks for this week 
+<p align="center">
+<img src="figures/O1.png" width=90% height=90%>
+</p>
 
-## Refreshing GEE skills
 
-Do any of these tasks:
+## How it works
 
-- [GEE JavaScript tutorial](https://ials.github.io/GEE-RIO/)
+<p align="center">
+<img src="figures/O2.png" width=90% height=90%>
+</p>
 
-- [GEE Python tutorial](https://ials.github.io/GEE_Python/2_eeImage.html)
+## Steps
 
-## Suggested topics for research
+<p align="center">
+<img src="figures/O3.png" width=90% height=90%>
+</p>
 
-- [Satellite Remote Sensing of Global Land Surface Temperature](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022RG000777)
+## Tasks
 
-- [Thermal remote sensing for plant ecology](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/1365-2745.13957)
+<p align="center">
+<img src="figures/O4.png" width=90% height=90%>
+</p>
 
-- [Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
+## Big data
+
+<p align="center">
+<img src="figures/O5.png" width=90% height=90%>
+</p>
+
+## ML in Earth Science
+
+<p align="center">
+<img src="figures/O6.png" width=90% height=90%>
+</p>
+
+## Complex problems
+
+<p align="center">
+<img src="figures/O7.png" width=90% height=90%>
+</p>
+
+## Two approaches
+
+<p align="center">
+<img src="figures/08.png" width=90% height=90%>
+</p>
+
+# Machine Learning Applications
+
+## Benefits
+
+<p align="center">
+<img src="figures/AA1.png" width=90% height=90%>
+</p>
+
+## Discovery
+
+<p align="center">
+<img src="figures/AA2.png" width=90% height=90%>
+</p>
+
+## Software
+
+<p align="center">
+<img src="figures/AA3.png" width=90% height=90%>
+</p>
+
+## Frameworks
+
+<p align="center">
+<img src="figures/AA4.png" width=90% height=90%>
+</p>
+
+## Hardware
+
+<p align="center">
+<img src="figures/AA5.png" width=90% height=90%>
+</p>
+
+
+# Machine Learning Algorithms
+
+## The problem
+
+<p align="center">
+<img src="figures/AP1.png" width=90% height=90%>
+</p>
+
+## Data
+
+<p align="center">
+<img src="figures/AP2.png" width=90% height=90%>
+</p>
+
+## Performance
+
+<p align="center">
+<img src="figures/AP3.png" width=90% height=90%>
+</p>
+
+## Operations
+
+<p align="center">
+<img src="figures/AP4.png" width=90% height=90%>
+</p>
 
 ## [Back to this week page](page.qmd)
 
