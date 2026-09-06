@@ -23,6 +23,8 @@ In this  week, we will introduce *fundamentals of machine learning (ML) for EO d
 
 - *Python way:* Reproduce [Exploring ECOSTRESS L2T LSTE](https://nasa.github.io/VITALS/python/Exploring_ECOSTRESS_L2T_LSTE.html)
 
+- *Customized way:* Reproduce [any of these tutorials](https://github.com/ECOSTRESS-Tutorials)
+
 
 
 

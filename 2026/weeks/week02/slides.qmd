@@ -45,25 +45,25 @@ What's your main achievement?
 ## Image analysis tasks
 
 <p align="center">
-<img src="figures/RSprocess.png" width=90% height=90%>
+<img src="figures/RSprocess.png" width=100% height=100%>
 </p>
 
 ## Processing
 
 <p align="center">
-<img src="figures/RSprocessing.png" width=90% height=90%>
+<img src="figures/RSprocessing.png" width=100% height=100%>
 </p>
 
 ## Hand crafted features
 
 <p align="center">
-<img src="figures/HandFeatures.png" width=90% height=90%>
+<img src="figures/HandFeatures.png" width=100% height=100%>
 </p>
 
 ## Quality assessment
 
 <p align="center">
-<img src="figures/RSQuality.png" width=90% height=90%>
+<img src="figures/RSQuality.png" width=100% height=100%>
 </p>
 
 # Machine learning fundamentals
@@ -71,50 +71,50 @@ What's your main achievement?
 ## Overview
 
 <p align="center">
-<img src="figures/O1.png" width=90% height=90%>
+<img src="figures/O1.png" width=100% height=100%>
 </p>
 
 
 ## How it works
 
 <p align="center">
-<img src="figures/O2.png" width=90% height=90%>
+<img src="figures/O2.png" width=100% height=100%>
 </p>
 
 ## Steps
 
 <p align="center">
-<img src="figures/O3.png" width=90% height=90%>
+<img src="figures/O3.png" width=100% height=100%>
 </p>
 
 ## Tasks
 
 <p align="center">
-<img src="figures/O4.png" width=90% height=90%>
+<img src="figures/O4.png" width=100% height=100%>
 </p>
 
 ## Big data
 
 <p align="center">
-<img src="figures/O5.png" width=90% height=90%>
+<img src="figures/O5.png" width=100% height=100%>
 </p>
 
 ## ML in Earth Science
 
 <p align="center">
-<img src="figures/O6.png" width=90% height=90%>
+<img src="figures/O6.png" width=100% height=100%>
 </p>
 
 ## Complex problems
 
 <p align="center">
-<img src="figures/O7.png" width=90% height=90%>
+<img src="figures/O7.png" width=100% height=100%>
 </p>
 
 ## Two approaches
 
 <p align="center">
-<img src="figures/O8.png" width=90% height=90%>
+<img src="figures/O8.png" width=100% height=100%>
 </p>
 
 # Machine Learning Applications
@@ -122,31 +122,31 @@ What's your main achievement?
 ## Benefits
 
 <p align="center">
-<img src="figures/AA1.png" width=90% height=90%>
+<img src="figures/AA1.png" width=100% height=100%>
 </p>
 
 ## Discovery
 
 <p align="center">
-<img src="figures/AA2.png" width=90% height=90%>
+<img src="figures/AA2.png" width=100% height=100%>
 </p>
 
 ## Software
 
 <p align="center">
-<img src="figures/AA3.png" width=90% height=90%>
+<img src="figures/AA3.png" width=100% height=100%>
 </p>
 
 ## Frameworks
 
 <p align="center">
-<img src="figures/AA4.png" width=90% height=90%>
+<img src="figures/AA4.png" width=100% height=100%>
 </p>
 
 ## Hardware
 
 <p align="center">
-<img src="figures/AA5.png" width=90% height=90%>
+<img src="figures/AA5.png" width=100% height=100%>
 </p>
 
 
@@ -155,25 +155,25 @@ What's your main achievement?
 ## The problem
 
 <p align="center">
-<img src="figures/AP1.png" width=90% height=90%>
+<img src="figures/AP1.png" width=100% height=100%>
 </p>
 
 ## Data
 
 <p align="center">
-<img src="figures/AP2.png" width=90% height=90%>
+<img src="figures/AP2.png" width=100% height=100%>
 </p>
 
 ## Performance
 
 <p align="center">
-<img src="figures/AP3.png" width=90% height=90%>
+<img src="figures/AP3.png" width=100% height=100%>
 </p>
 
 ## Operations
 
 <p align="center">
-<img src="figures/AP4.png" width=90% height=90%>
+<img src="figures/AP4.png" width=100% height=100%>
 </p>
 
 ## [Back to this week page](page.qmd)
