@@ -29,7 +29,7 @@ format:
 
 What’s your main takeaway? 
 <p align="center">
-<img src="figures/atmosfera.gif" width=40% height=40%>
+<img src="figures/atmosfera.gif" width=35% height=35%>
 </p>
 
 ## GEE skills practical
@@ -45,7 +45,7 @@ What's your main achievement?
 ## Image analysis tasks
 
 <p align="center">
-<img src="figures/RSprocess.gif" width=90% height=90%>
+<img src="figures/RSprocess.png" width=90% height=90%>
 </p>
 
 ## Processing
@@ -114,7 +114,7 @@ What's your main achievement?
 ## Two approaches
 
 <p align="center">
-<img src="figures/08.png" width=90% height=90%>
+<img src="figures/O8.png" width=90% height=90%>
 </p>
 
 # Machine Learning Applications
