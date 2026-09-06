@@ -175,109 +175,165 @@
     "text": "Reading\nMake sure you complete this reading before next week. In your PRA notebook, summarize what have you learned from it.\n\nMathematics of Neural Networks"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#your-lecturer",
-    "href": "2026/weeks/week01/slides.html#your-lecturer",
+    "objectID": "2026/weeks/week01/slides.html#radiometric-correction-reading",
+    "href": "2026/weeks/week01/slides.html#radiometric-correction-reading",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Your lecturer",
-    "text": "Your lecturer\nIvan Lizarazo"
+    "section": "Radiometric correction reading",
+    "text": "Radiometric correction reading\nWhat’s your main takeaway?"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#students",
-    "href": "2026/weeks/week01/slides.html#students",
+    "objectID": "2026/weeks/week01/slides.html#gee-skills-practical",
+    "href": "2026/weeks/week01/slides.html#gee-skills-practical",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Students",
-    "text": "Students\nPlease introduce yourselves"
+    "section": "GEE skills practical",
+    "text": "GEE skills practical\nWhat’s your main achievement?"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#statement-1",
-    "href": "2026/weeks/week01/slides.html#statement-1",
+    "objectID": "2026/weeks/week01/slides.html#image-analysis-tasks",
+    "href": "2026/weeks/week01/slides.html#image-analysis-tasks",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 1",
-    "text": "Statement 1\nMultispectral satellite sensors measure the reflectance of features on the ground"
+    "section": "Image analysis tasks",
+    "text": "Image analysis tasks"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#statement-2",
-    "href": "2026/weeks/week01/slides.html#statement-2",
+    "objectID": "2026/weeks/week01/slides.html#processing",
+    "href": "2026/weeks/week01/slides.html#processing",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 2",
-    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
+    "section": "Processing",
+    "text": "Processing"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#statement-3",
-    "href": "2026/weeks/week01/slides.html#statement-3",
+    "objectID": "2026/weeks/week01/slides.html#hand-crafted-features",
+    "href": "2026/weeks/week01/slides.html#hand-crafted-features",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 3",
-    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
+    "section": "Hand crafted features",
+    "text": "Hand crafted features"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#statement-4",
-    "href": "2026/weeks/week01/slides.html#statement-4",
+    "objectID": "2026/weeks/week01/slides.html#quality-assessment",
+    "href": "2026/weeks/week01/slides.html#quality-assessment",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 4",
-    "text": "Statement 4\nLandsat TOA imagery allows users to consistently classify natural vegetation genus and species information with a high level of accuracy"
+    "section": "Quality assessment",
+    "text": "Quality assessment"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#statement-5",
-    "href": "2026/weeks/week01/slides.html#statement-5",
+    "objectID": "2026/weeks/week01/slides.html#overview",
+    "href": "2026/weeks/week01/slides.html#overview",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 5",
-    "text": "Statement 5\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
+    "section": "Overview",
+    "text": "Overview"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#atmospheric-correction",
-    "href": "2026/weeks/week01/slides.html#atmospheric-correction",
+    "objectID": "2026/weeks/week01/slides.html#how-it-works",
+    "href": "2026/weeks/week01/slides.html#how-it-works",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Atmospheric correction",
-    "text": "Atmospheric correction"
+    "section": "How it works",
+    "text": "How it works"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#toa-reflectance",
-    "href": "2026/weeks/week01/slides.html#toa-reflectance",
+    "objectID": "2026/weeks/week01/slides.html#steps",
+    "href": "2026/weeks/week01/slides.html#steps",
     "title": "🗓️ Week 01 Introduction",
-    "section": "TOA reflectance",
-    "text": "TOA reflectance"
+    "section": "Steps",
+    "text": "Steps"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#surface-reflectance",
-    "href": "2026/weeks/week01/slides.html#surface-reflectance",
+    "objectID": "2026/weeks/week01/slides.html#tasks",
+    "href": "2026/weeks/week01/slides.html#tasks",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Surface reflectance",
-    "text": "Surface reflectance"
+    "section": "Tasks",
+    "text": "Tasks"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#radiometric-correction",
-    "href": "2026/weeks/week01/slides.html#radiometric-correction",
+    "objectID": "2026/weeks/week01/slides.html#big-data",
+    "href": "2026/weeks/week01/slides.html#big-data",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Radiometric correction",
-    "text": "Radiometric correction"
+    "section": "Big data",
+    "text": "Big data"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#basic-python-quiz",
-    "href": "2026/weeks/week01/slides.html#basic-python-quiz",
+    "objectID": "2026/weeks/week01/slides.html#ml-in-earth-science",
+    "href": "2026/weeks/week01/slides.html#ml-in-earth-science",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Basic python quiz",
-    "text": "Basic python quiz\nSolve this simple quiz"
+    "section": "ML in Earth Science",
+    "text": "ML in Earth Science"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#reading-doing-and-writing",
-    "href": "2026/weeks/week01/slides.html#reading-doing-and-writing",
+    "objectID": "2026/weeks/week01/slides.html#complex-problems",
+    "href": "2026/weeks/week01/slides.html#complex-problems",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Reading, doing and writing",
-    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
+    "section": "Complex problems",
+    "text": "Complex problems"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#refreshing-gee-skills",
-    "href": "2026/weeks/week01/slides.html#refreshing-gee-skills",
+    "objectID": "2026/weeks/week01/slides.html#two-approaches",
+    "href": "2026/weeks/week01/slides.html#two-approaches",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Refreshing GEE skills",
-    "text": "Refreshing GEE skills\nDo any of these tasks:\n\nGEE JavaScript tutorial\nGEE Python tutorial"
+    "section": "Two approaches",
+    "text": "Two approaches"
   },
   {
-    "objectID": "2026/weeks/week01/slides.html#suggested-topics-for-research",
-    "href": "2026/weeks/week01/slides.html#suggested-topics-for-research",
+    "objectID": "2026/weeks/week01/slides.html#benefits",
+    "href": "2026/weeks/week01/slides.html#benefits",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Suggested topics for research",
-    "text": "Suggested topics for research\n\nSatellite Remote Sensing of Global Land Surface Temperature\nThermal remote sensing for plant ecology\nAtmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)"
+    "section": "Benefits",
+    "text": "Benefits"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#discovery",
+    "href": "2026/weeks/week01/slides.html#discovery",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Discovery",
+    "text": "Discovery"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#software",
+    "href": "2026/weeks/week01/slides.html#software",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Software",
+    "text": "Software"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#frameworks",
+    "href": "2026/weeks/week01/slides.html#frameworks",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Frameworks",
+    "text": "Frameworks"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#hardware",
+    "href": "2026/weeks/week01/slides.html#hardware",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Hardware",
+    "text": "Hardware"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#the-problem",
+    "href": "2026/weeks/week01/slides.html#the-problem",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "The problem",
+    "text": "The problem"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#data",
+    "href": "2026/weeks/week01/slides.html#data",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#performance",
+    "href": "2026/weeks/week01/slides.html#performance",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Performance",
+    "text": "Performance"
+  },
+  {
+    "objectID": "2026/weeks/week01/slides.html#operations",
+    "href": "2026/weeks/week01/slides.html#operations",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Operations",
+    "text": "Operations"
   },
   {
     "objectID": "2026/weeks/week01/slides.html#back-to-this-week-page",
@@ -311,7 +367,7 @@
     "href": "2026/syllabus.html#descripción-de-la-asignatura",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nImportantOBJETIVOS:\n\n\n\n\n\n\nConocer nuevos conceptos y técnicas de análisis de datos de percepción remota\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nEntender los conceptos básicos de deep learning aplicado a datos de observación terrestre\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory\n\n\n\nUSO DE INTELIGENCIA ARTIFICIAL\nLos estudiantes pueden usar herramientas de Inteligencia Artifical como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal. En este curso se permite el uso de IA generativa hasta un máximo del 50 % de cada trabajo presentado.\n\n\nASISTENCIA OBLIGATORIA",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nConocer nuevos conceptos y técnicas de análisis de datos de percepción remota\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nEntender los conceptos básicos de deep learning aplicado a datos de observación terrestre\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory\n\n\n\nUSO DE INTELIGENCIA ARTIFICIAL\nLos estudiantes pueden usar herramientas de Inteligencia Artifical como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal. En este curso se permite el uso de IA generativa hasta un máximo del 50 % de cada trabajo presentado.\n\n\nASISTENCIA OBLIGATORIA",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -321,7 +377,7 @@
     "href": "2026/syllabus.html#contenido-detallado",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nImportantUnidad 1 – Percepción remota multi-espectral\n\n\n\n\n\n\nUnidad 2 - Percepción remota hiper-espectral\n\n\nUnidad 3 - Percepción remota termal\n\n\nUnidad 4 – Principios de aprendizaje profundo\n\n\nUnidad 5 – Redes neuronales convolucionales\n\n\nUnidad 6 – Aprendizaje autosupervisado\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos geoespaciales",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 1 – Percepción remota multi-espectral\n\n\n\n\n\n\nUnidad 2 - Percepción remota hiper-espectral\n\n\nUnidad 3 - Percepción remota termal\n\n\nUnidad 4 – Principios de aprendizaje profundo\n\n\nUnidad 5 – Redes neuronales convolucionales\n\n\nUnidad 6 – Aprendizaje autosupervisado\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos geoespaciales",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -358,7 +414,7 @@
     "href": "2026/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "Important📢 Join PRA group at Data Camp\n\n\n\n\n\n(05/09/2026)\n\n🗓️ Complete the Introduction to DL with Python course by due date.\n\n\n\n\n\n\n\n\n\n\nImportant📢 Syllabus\n\n\n\n\n\n(27/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 9:00 am - 10:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "text": "📢 Join PRA group at Data Camp\n\n\n\n\n\n(05/09/2026)\n\n🗓️ Complete the Introduction to DL with Python course by due date.\n\n\n\n\n\n\n\n\n\n\n📢 Syllabus\n\n\n\n\n\n(27/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 9:00 am - 10:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
@@ -441,14 +497,14 @@
     "href": "2026/weeks/week02/lab.html#tutorial-dataset",
     "title": "🗓️ Week 02 - Practical exercise",
     "section": "👨‍🏫 Tutorial Dataset",
-    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nImportantSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportantSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
+    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
   },
   {
     "objectID": "2026/weeks/week02/lab.html#important",
     "href": "2026/weeks/week02/lab.html#important",
     "title": "🗓️ Week 02 - Practical exercise",
     "section": "✍️ Important",
-    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nImportantAfter ordering, you have to wait …"
+    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
   },
   {
     "objectID": "2026/weeks/week02/lab.html#recommended-reading",
@@ -462,7 +518,7 @@
     "href": "2026/weeks/week02/page.html",
     "title": "🗓️ Week 2 - Thermal Remote Sensing",
     "section": "",
-    "text": "In this week, we will get to know how to estimate land surface temperature from EO data.",
+    "text": "In this week, we will introduce fundamentals of machine learning (ML) for EO data analysis. Furthermore, we will learn how to estimate land surface temperature from EO data.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
@@ -473,7 +529,7 @@
     "href": "2026/weeks/week02/page.html#lecture-slides",
     "title": "🗓️ Week 2 - Thermal Remote Sensing",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\n\nLand surface temperature retrieval",
+    "text": "👨‍🏫 Lecture Slides\n\nFundamentals of ML for EO data analysis\nLand surface temperature retrieval",
     "crumbs": [
       "🗓️ Weeks",
       "Week 02"
