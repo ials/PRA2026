@@ -7,28 +7,22 @@
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.7.33">
 
-  <meta name="author" content="Ivan Lizarazo(#)">
-  <meta name="dcterms.date" content="6 Nov 2024">
-  <title>PERCEPCION REMOTA AVANZADA – 🗓️ Week 02  SAR Basics</title>
+  <meta name="author" content="Ivan Lizarazo">
+  <meta name="dcterms.date" content="9 September 2026">
+  <title>PERCEPCION REMOTA AVANZADA – 🗓️ Week 01  Introduction</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
   <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../../../site_libs/revealjs/dist/reveal.css">
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -37,7 +31,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto-0427d8d92a431aa6a6430e53ec02a470.css">
+  <link rel="stylesheet" href="../../../site_libs/revealjs/dist/theme/quarto-2c1b5f745a11cfad616ebade4a4a7d24.css">
   <link rel="stylesheet" href="../../../css/styles_slides.css">
   <link href="../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -130,10 +124,10 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="🗓️ Week 02 SAR Basics – PERCEPCION REMOTA AVANZADA">
+<meta property="og:title" content="🗓️ Week 01 Introduction – PERCEPCION REMOTA AVANZADA">
 <meta property="og:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta property="og:site_name" content="PERCEPCION REMOTA AVANZADA">
-<meta name="twitter:title" content="🗓️ Week 02 SAR Basics – PERCEPCION REMOTA AVANZADA">
+<meta name="twitter:title" content="🗓️ Week 01 Introduction – PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -144,13 +138,13 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 02<br> SAR Basics</font></h1>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 01<br> Introduction</font></h1>
   <p class="subtitle">2027449– PERCEPCION REMOTA AVANZADA</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Ivan Lizarazo(#)
+Ivan Lizarazo 
 </div>
         <p class="quarto-title-affiliation">
             <a href="#/">Universidad Nacional de Colombia</a>
@@ -158,173 +152,186 @@ Ivan Lizarazo(#)
     </div>
 </div>
 
-  <p class="date">06 Nov 2024</p>
+  <p class="date">09 Sep 2026</p>
 </section><section id="TOC">
 <nav role="doc-toc"> 
 <h2 id="toc-title">What we will cover today:</h2>
 <ul>
-<li><a href="#/introduction" id="/toc-introduction">Introduction</a></li>
-<li><a href="#/whats-radar" id="/toc-whats-radar">What’s RADAR?</a></li>
-<li><a href="#/basic-radar-operation" id="/toc-basic-radar-operation">Basic Radar Operation</a></li>
-<li><a href="#/the-radar-equation" id="/toc-the-radar-equation">The Radar Equation</a></li>
-<li><a href="#/frequency-and-wavelength" id="/toc-frequency-and-wavelength">Frequency and Wavelength</a></li>
-<li><a href="#/polarization-and-scattering" id="/toc-polarization-and-scattering">Polarization and scattering</a></li>
-<li><a href="#/spatial-resolution" id="/toc-spatial-resolution">Spatial resolution</a></li>
-<li><a href="#/to-do-before-next-class" id="/toc-to-do-before-next-class">To do before next class</a></li>
+<li><a href="#/homework-check" id="/toc-homework-check">Homework check</a></li>
+<li><a href="#/the-remote-sensing-process" id="/toc-the-remote-sensing-process">The remote sensing process</a></li>
+<li><a href="#/machine-learning-fundamentals" id="/toc-machine-learning-fundamentals">Machine learning fundamentals</a></li>
+<li><a href="#/machine-learning-applications" id="/toc-machine-learning-applications">Machine Learning Applications</a></li>
+<li><a href="#/machine-learning-algorithms" id="/toc-machine-learning-algorithms">Machine Learning Algorithms</a></li>
 </ul>
 </nav>
 </section>
-<section id="introduction" class="title-slide slide level1">
-<h1>Introduction</h1>
-<p>Checking homework:</p>
-<ol type="1">
-<li><p>Reading (platform’s height)</p></li>
-<li><p>Practical (visualization)</p></li>
-<li><p>Video (SAR oblique view)</p></li>
-</ol>
-</section>
-
-<section id="whats-radar" class="title-slide slide level1">
-<h1>What’s RADAR?</h1>
-<p>Based on the principle of <em>echolocation</em></p>
-<p>RAdio Detection and Ranging</p>
-<p>SAR is not just a radar: it is an imaging radar system,</p>
-<p>SAR’s antenna moves while emiting signals and receiving echos</p>
-</section>
-
-<section id="basic-radar-operation" class="title-slide slide level1">
-<h1>Basic Radar Operation</h1>
-<p>A pulse of duration <span class="math inline">\(\tau\)</span> travels at the speed of light <span class="math inline">\(c\)</span></p>
-<p>The two-way range distance between antena and target is the velocity times the time delay</p>
-<p>Thus, the range distance to the target is <span class="math inline">\(R = \frac {c\tau}{2}\)</span></p>
-</section>
-
-<section id="the-radar-equation" class="title-slide slide level1">
-<h1>The Radar Equation</h1>
-
-<img data-src="figures/radar_equation.png" class="img-fluid r-stretch"></section>
-
 <section>
-<section id="frequency-and-wavelength" class="title-slide slide level1">
-<h1>Frequency and Wavelength</h1>
+<section id="homework-check" class="title-slide slide level1">
+<h1>Homework check</h1>
 
 </section>
-<section id="the-wavelengths" class="slide level2">
-<h2>The wavelengths</h2>
-
-<img data-src="figures/radar_longs.png" class="img-fluid r-stretch"></section>
-<section id="the-benefits" class="slide level2">
-<h2>The benefits</h2>
-
-<img data-src="figures/benefits.png" class="img-fluid r-stretch"></section>
-<section id="weather-independence" class="slide level2">
-<h2>Weather independence</h2>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th>Sentinel-1</th>
-<th>Sentinel-2</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><img data-src="figures/sentinel1.gif" class="img-fluid" alt="alt"></td>
-<td><img data-src="figures/sentinel2.gif" class="img-fluid" alt="alt"></td>
-</tr>
-</tbody>
-</table>
+<section id="radiometric-correction-reading" class="slide level2">
+<h2>Radiometric correction reading</h2>
+What’s your main takeaway?
+<p align="center">
+<img src="figures/atmosfera.gif" width="90%" height="90%">
+</p>
 </section>
-<section id="radar-bands" class="slide level2">
-<h2>Radar bands</h2>
-
-<img data-src="figures/radar_bands.png" class="img-fluid r-stretch"></section>
-<section id="radar-signal-penetration" class="slide level2">
-<h2>Radar signal penetration</h2>
-
-<img data-src="figures/penetration.png" class="img-fluid r-stretch"></section></section>
+<section id="gee-skills-practical" class="slide level2">
+<h2>GEE skills practical</h2>
+What’s your main achievement?
+<p align="center">
+<img src="figures/earth.gif" width="90%" height="90%">
+</p>
+</section></section>
 <section>
-<section id="polarization-and-scattering" class="title-slide slide level1">
-<h1>Polarization and scattering</h1>
+<section id="the-remote-sensing-process" class="title-slide slide level1">
+<h1>The remote sensing process</h1>
 
 </section>
-<section id="electromagnetic-waves" class="slide level2">
-<h2>Electromagnetic waves</h2>
-
-<img data-src="figures/em_waves.png" class="img-fluid r-stretch"></section>
-<section id="polarization" class="slide level2">
-<h2>Polarization</h2>
-
-<img data-src="figures/polarization.png" class="img-fluid r-stretch"></section>
-<section id="sar-polarization" class="slide level2">
-<h2>SAR polarization</h2>
-
-<img data-src="figures/sar_polarization.png" class="img-fluid r-stretch"></section>
-<section id="backscattering" class="slide level2">
-<h2>Backscattering</h2>
-
-<img data-src="figures/scatterers.png" class="img-fluid r-stretch"></section>
-<section id="relative-scattering" class="slide level2">
-<h2>Relative scattering</h2>
-
-<img data-src="figures/relative.png" class="img-fluid r-stretch"></section>
-<section id="sar-signaturres" class="slide level2">
-<h2>SAR signaturres</h2>
-
-<img data-src="figures/pol_signatures.png" class="img-fluid r-stretch"></section></section>
+<section id="image-analysis-tasks" class="slide level2">
+<h2>Image analysis tasks</h2>
+<p align="center">
+<img src="figures/RSprocess.gif" width="90%" height="90%">
+</p>
+</section>
+<section id="processing" class="slide level2">
+<h2>Processing</h2>
+<p align="center">
+<img src="figures/RSprocessing.png" width="90%" height="90%">
+</p>
+</section>
+<section id="hand-crafted-features" class="slide level2">
+<h2>Hand crafted features</h2>
+<p align="center">
+<img src="figures/HandFeatures.png" width="90%" height="90%">
+</p>
+</section>
+<section id="quality-assessment" class="slide level2">
+<h2>Quality assessment</h2>
+<p align="center">
+<img src="figures/RSQuality.png" width="90%" height="90%">
+</p>
+</section></section>
 <section>
-<section id="spatial-resolution" class="title-slide slide level1">
-<h1>Spatial resolution</h1>
+<section id="machine-learning-fundamentals" class="title-slide slide level1">
+<h1>Machine learning fundamentals</h1>
 
 </section>
-<section id="sar-system" class="slide level2">
-<h2>SAR system</h2>
-
-<img data-src="figures/sar_system.png" class="img-fluid r-stretch"></section>
-<section id="range-resolution" class="slide level2">
-<h2>Range resolution</h2>
-
-<img data-src="figures/range_res.png" class="img-fluid r-stretch"></section>
-<section id="azimuth-resolution" class="slide level2">
-<h2>Azimuth resolution</h2>
-
-<img data-src="figures/azi_res.png" class="img-fluid r-stretch"></section>
-<section id="speckle" class="slide level2">
-<h2>Speckle</h2>
-
-<img data-src="figures/speckle.png" class="img-fluid r-stretch"></section>
-<section id="geometric-distorsions" class="slide level2">
-<h2>Geometric distorsions</h2>
-
-<img data-src="figures/geometric.png" class="img-fluid r-stretch"></section>
-<section id="backscatter-variables" class="slide level2">
-<h2>Backscatter variables</h2>
-
-<img data-src="figures/table_variables.png" class="img-fluid r-stretch"></section>
-<section id="backscatter-reference-areas" class="slide level2">
-<h2>Backscatter reference areas</h2>
-
-<img data-src="figures/back_variables.png" class="img-fluid r-stretch"></section></section>
+<section id="overview" class="slide level2">
+<h2>Overview</h2>
+<p align="center">
+<img src="figures/O1.png" width="90%" height="90%">
+</p>
+</section>
+<section id="how-it-works" class="slide level2">
+<h2>How it works</h2>
+<p align="center">
+<img src="figures/O2.png" width="90%" height="90%">
+</p>
+</section>
+<section id="steps" class="slide level2">
+<h2>Steps</h2>
+<p align="center">
+<img src="figures/O3.png" width="90%" height="90%">
+</p>
+</section>
+<section id="tasks" class="slide level2">
+<h2>Tasks</h2>
+<p align="center">
+<img src="figures/O4.png" width="90%" height="90%">
+</p>
+</section>
+<section id="big-data" class="slide level2">
+<h2>Big data</h2>
+<p align="center">
+<img src="figures/O5.png" width="90%" height="90%">
+</p>
+</section>
+<section id="ml-in-earth-science" class="slide level2">
+<h2>ML in Earth Science</h2>
+<p align="center">
+<img src="figures/O6.png" width="90%" height="90%">
+</p>
+</section>
+<section id="complex-problems" class="slide level2">
+<h2>Complex problems</h2>
+<p align="center">
+<img src="figures/O7.png" width="90%" height="90%">
+</p>
+</section>
+<section id="two-approaches" class="slide level2">
+<h2>Two approaches</h2>
+<p align="center">
+<img src="figures/08.png" width="90%" height="90%">
+</p>
+</section></section>
 <section>
-<section id="to-do-before-next-class" class="title-slide slide level1">
-<h1>To do before next class</h1>
+<section id="machine-learning-applications" class="title-slide slide level1">
+<h1>Machine Learning Applications</h1>
 
 </section>
-<section id="read-this-document" class="slide level2">
-<h2>Read this document</h2>
-<p><a href="https://ceos.org/ard/files/Laymans_SAR_Interpretation_Guide_2.0.pdf">A layman interpretation guide to L-band and C-band SAR data</a></p>
-<p>CEOS (2018)</p>
+<section id="benefits" class="slide level2">
+<h2>Benefits</h2>
+<p align="center">
+<img src="figures/AA1.png" width="90%" height="90%">
+</p>
 </section>
-<section id="watch-this-video" class="slide level2">
-<h2>Watch this video</h2>
-<p><a href="https://www.iceye.com/vos-talk2-video-page">See the world through SAR</a></p>
-<p>Tom Ager - ICEYE - 2023</p>
+<section id="discovery" class="slide level2">
+<h2>Discovery</h2>
+<p align="center">
+<img src="figures/AA2.png" width="90%" height="90%">
+</p>
 </section>
-<section id="practical-exercises" class="slide level2">
-<h2>Practical exercises</h2>
-<ul>
-<li>Progress on the <a href="https://jenfly.github.io/llc-python-resources/next-steps.html">Data Insigths with Python</a> tutorial</li>
-<li>Progress on the <a href="">GEE Image with Python</a> tutorial</li>
-</ul>
+<section id="software" class="slide level2">
+<h2>Software</h2>
+<p align="center">
+<img src="figures/AA3.png" width="90%" height="90%">
+</p>
+</section>
+<section id="frameworks" class="slide level2">
+<h2>Frameworks</h2>
+<p align="center">
+<img src="figures/AA4.png" width="90%" height="90%">
+</p>
+</section>
+<section id="hardware" class="slide level2">
+<h2>Hardware</h2>
+<p align="center">
+<img src="figures/AA5.png" width="90%" height="90%">
+</p>
+</section></section>
+<section>
+<section id="machine-learning-algorithms" class="title-slide slide level1">
+<h1>Machine Learning Algorithms</h1>
+
+</section>
+<section id="the-problem" class="slide level2">
+<h2>The problem</h2>
+<p align="center">
+<img src="figures/AP1.png" width="90%" height="90%">
+</p>
+</section>
+<section id="data" class="slide level2">
+<h2>Data</h2>
+<p align="center">
+<img src="figures/AP2.png" width="90%" height="90%">
+</p>
+</section>
+<section id="performance" class="slide level2">
+<h2>Performance</h2>
+<p align="center">
+<img src="figures/AP3.png" width="90%" height="90%">
+</p>
+</section>
+<section id="operations" class="slide level2">
+<h2>Operations</h2>
+<p align="center">
+<img src="figures/AP4.png" width="90%" height="90%">
+</p>
+</section>
+<section id="back-to-this-week-page" class="slide level2">
+<h2><a href="../../../2026/weeks/week02/page.html">Back to this week page</a></h2>
 
 
 </section></section>
@@ -518,7 +525,7 @@ Ivan Lizarazo(#)
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -592,14 +599,13 @@ Ivan Lizarazo(#)
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-          const outerScaffold = trigger.parentElement.cloneNode(true);
-          const codeEl = outerScaffold.querySelector('code');
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
+            const codeEl = trigger.previousElementSibling.cloneNode(true);
+            for (const childEl of codeEl.children) {
+              if (isCodeAnnotation(childEl)) {
+                childEl.remove();
+              }
             }
-          }
-          return codeEl.innerText;
+            return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
