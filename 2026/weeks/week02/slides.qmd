@@ -29,14 +29,14 @@ format:
 
 What’s your main takeaway? 
 <p align="center">
-<img src="figures/atmosfera.gif" width=90% height=90%>
+<img src="figures/atmosfera.gif" width=50% height=50%>
 </p>
 
 ## GEE skills practical
 
 What's your main achievement?
 <p align="center">
-<img src="figures/earth.gif" width=90% height=90%>
+<img src="figures/earth.gif" width=50% height=50%>
 </p>
 
 
