@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.7.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,16 +10,10 @@
 
 <title>🗓️ Week 2 - Thermal Remote Sensing – PERCEPCION REMOTA AVANZADA</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
+code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -45,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-547b8bf330a8b3ac2679387b965bde2c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-2732ace4a5a76061a49c1d44a0545a3e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -195,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
-  <li><a href="#main-references" id="toc-main-references" class="nav-link" data-scroll-target="#main-references">Main references</a></li>
+  <li><a href="#main-reference" id="toc-main-reference" class="nav-link" data-scroll-target="#main-reference">Main reference</a></li>
   <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link" data-scroll-target="#practical-exercise">📚 Practical exercise</a></li>
   </ul>
 </nav>
@@ -228,23 +222,23 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will introduce <em>fundamentals of machine learning (ML) for EO data analysis</em>. Furthermore, we will learn how to estimate land surface temperature from EO data.</p>
+<p>In this week, we will introduce <em>fundamentals of machine learning (ML) for EO data analysis</em>. Furthermore, we will get to know <em>thermal remote sensing</em> concepts.</p>
 <section id="lecture-slides" class="level2">
 <h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
 <ul>
 <li><p><a href="../../../2026/weeks/week02/slides.html">Fundamentals of ML for EO data analysis</a></p></li>
-<li><p><a href="https://www.star.nesdis.noaa.gov/star/documents/seminardocs/2020/20200619_G%C3%B6ttsche.pdf">Land surface temperature retrieval</a></p></li>
+<li><p><a href="https://drive.google.com/file/d/1Ew5AhsRN-EBmx5DJMecGdw3pOwyfTKJL/view?usp=sharing">Thermal Remote Sensing</a></p></li>
 </ul>
 </section>
-<section id="main-references" class="level2">
-<h2 class="anchored" data-anchor-id="main-references">Main references</h2>
+<section id="main-reference" class="level2">
+<h2 class="anchored" data-anchor-id="main-reference">Main reference</h2>
 <ul>
-<li><p><a href="https://idlcc.fc.ul.pt/pdf/Zhao-Liang_2013.pdf">Satellite-derived land surface temperature</a></p></li>
-<li><p><a href="https://lpvs.gsfc.nasa.gov/PDF/CEOS_LST_PROTOCOL_Feb2018_v1.1.0_light.pdf">LST validation protocol</a></p></li>
+<li><a href="https://ecostress.jpl.nasa.gov/downloads/atbd/ECOSTRESS_L2_ATBD_LSTE_2018-03-08.pdf">ECOSTRESS Level 2 ATB</a></li>
 </ul>
 </section>
 <section id="practical-exercise" class="level2">
 <h2 class="anchored" data-anchor-id="practical-exercise">📚 Practical exercise</h2>
+<p>Select your own way to practice:</p>
 <ul>
 <li><p><em>R way:</em> Reproduce <a href="https://github.com/savcooley/2026_thermalRS_urban_heat_demo">Nighttime Cooling Patterns</a></p></li>
 <li><p><em>Python way:</em> Reproduce <a href="https://nasa.github.io/VITALS/python/Exploring_ECOSTRESS_L2T_LSTE.html">Exploring ECOSTRESS L2T LSTE</a></p></li>
@@ -306,14 +300,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
