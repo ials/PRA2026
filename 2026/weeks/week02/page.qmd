@@ -2,22 +2,23 @@
 title: "🗓️ Week 2 - Thermal Remote Sensing "
 ---
 
-In this  week, we will introduce *fundamentals of machine learning (ML) for EO data analysis*. Furthermore, we will learn how to estimate land surface temperature from EO data.
+In this  week, we will introduce *fundamentals of machine learning (ML) for EO data analysis*. Furthermore, we will get to know *thermal remote sensing* concepts.
 
 
 ## 👨‍🏫 Lecture Slides 
 
 - [Fundamentals of ML for EO data analysis](slides.qmd)
 
-- [Land surface temperature retrieval](https://www.star.nesdis.noaa.gov/star/documents/seminardocs/2020/20200619_G%C3%B6ttsche.pdf)
+- [Thermal Remote Sensing](https://drive.google.com/file/d/1Ew5AhsRN-EBmx5DJMecGdw3pOwyfTKJL/view?usp=sharing)
 
-## Main references
+## Main reference
 
-- [Satellite-derived land surface temperature](https://idlcc.fc.ul.pt/pdf/Zhao-Liang_2013.pdf)
+- [ECOSTRESS Level 2 ATB](https://ecostress.jpl.nasa.gov/downloads/atbd/ECOSTRESS_L2_ATBD_LSTE_2018-03-08.pdf)
 
-- [LST validation protocol](https://lpvs.gsfc.nasa.gov/PDF/CEOS_LST_PROTOCOL_Feb2018_v1.1.0_light.pdf)
 
 ## 📚 Practical exercise
+
+Select your own way to practice:
 
 - *R way:* Reproduce [Nighttime Cooling Patterns](https://github.com/savcooley/2026_thermalRS_urban_heat_demo)
 
