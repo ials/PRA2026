@@ -9,7 +9,7 @@ format: html
 
 (05/09/2026)
 
-- 🗓️ Complete the  *Introduction to DL with Python* course by due date. 
+- 🗓️ Please ensure you complete the *Introduction to DL with PyTorch* course by the due date. 
 
 :::
 
