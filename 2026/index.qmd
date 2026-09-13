@@ -4,7 +4,7 @@ subtitle: "Academic Year: 2026"
 format: html
 ---
 ::: {.callout-important collapse=false}
-## 📢 Join PRA group at Data Camp
+## 📢 Write a one-page proposal for your *Informes*
 
 (09/09/2026)
 
