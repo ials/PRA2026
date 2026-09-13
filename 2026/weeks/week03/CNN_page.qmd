@@ -1,0 +1,24 @@
+---
+title: "🗓️ Week 3 - Machine learning vs Deep Learning "
+---
+
+In this  week, we will discuss  *Convolutional Neural Networks (CNN)*.
+
+
+## 👨‍🏫 Lecture Slides 
+
+- [CNNs](https://drive.google.com/file/d/1iKuK4BUHIkyrM0GLhfZE4_izi8_gT4NN/view)
+
+## 📚 Practical exercises
+
+- [CNNs](https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view)
+
+
+## ✍️ Coursework
+
+- Reproduce the code for the DL application you selected and *write your Informe No. 1*.
+
+- Complete the 5 courses in the *Deep Learning in Python track* at DataCamp before the due date
+
+
+

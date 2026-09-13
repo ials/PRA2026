@@ -1,24 +1,26 @@
 ---
-title: "🗓️ Week 3 - CNNs "
+title: "🗓️ Week 3 - Machine learning vs Deep Learning "
 ---
 
-In this  week, we will know and practice *Convolutional Neural Networks (CNN)*.
+In this  week, we will discuss several criteria to choose between *ML* and *DL* for remote sensing image analysis.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-- [CNNs](https://drive.google.com/file/d/1iKuK4BUHIkyrM0GLhfZE4_izi8_gT4NN/view)
+- [ML vs DL in remote sensing](https://drive.google.com/file/d/1526mpURurmvhA1oh-T0p9dEQhj-T3nNd/view?usp=sharing)
 
 ## 📚 Practical exercises
 
-- [CNNs](https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view)
+- Reproduce the  *reference study* you selected to guide your research
 
+- Prepare a *7 min presentation* of your  results for 23 September 2026
 
 ## ✍️ Coursework
 
-- Reproduce the code for the DL application you selected and *write your Informe No. 1*.
+- Study [Deep learning and traditional methods
+for remote sensing image analysis](https://drive.google.com/file/d/12vO4m6QCJD1n4iUd6Taet3q0sDKl6JMa/view?usp=drive_link)
 
-- Complete the 5 courses in the *Deep Learning in Python track* at DataCamp before the due date
+
 
 
 

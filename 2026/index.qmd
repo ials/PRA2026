@@ -3,6 +3,20 @@ title: "2027449 - PERCEPCION REMOTA AVANZADA"
 subtitle: "Academic Year: 2026"
 format: html
 ---
+::: {.callout-important collapse=false}
+## 📢 Join PRA group at Data Camp
+
+(09/09/2026)
+
+🗓️ Bring your *Informe 1* proposal to the classroom. Make sure to include:
+
+- Research question
+- Study area
+- Data description (both reference samples and imagery)
+- Methodology (a general workflow)
+
+:::
+
 
 ::: {.callout-important collapse=true}
 ## 📢 Join PRA group at Data Camp
