@@ -3,7 +3,22 @@ title: "2027449 - PERCEPCION REMOTA AVANZADA"
 subtitle: "Academic Year: 2026"
 format: html
 ---
-::: {.callout-important collapse=false}
+
+::: {.callout-important collapse=true}
+## 📢 Prepare a five-minutes presentation on your *Informe 1* progress
+
+(17/09/2026)
+
+🗓️ Bring your slides  to the classroom. Make sure to include:
+
+- Research question
+- Study area
+- Data description (both reference and imagery)
+- Progress (in reference to your workflow)
+
+:::
+
+::: {.callout-important collapse=true}
 ## 📢 Write a one-page proposal for your *Informes*
 
 (09/09/2026)
