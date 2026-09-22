@@ -2,7 +2,7 @@
 title: "🗓️ Week 4  - CNNs for image classification"
 ---
 
-In this  week, we will get to know [what are convolutional neural networks](https://drive.google.com/file/d/1hPY6L8Z-cRCqveZbLdr0TQZo_SSsamvU/view?usp=sharing)
+In this  week, we will get to know [what are convolutional neural networks](https://drive.google.com/file/d/1BDup_iFUdHwKePlRtT9uYEX5fcABIKBx/view?usp=sharing)
 
 
 ## 👨‍ Classroom Practical Task 
