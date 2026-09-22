@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.7.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -10,16 +10,10 @@
 
 <title>🗓️ Week 4 - CNNs for image classification – PERCEPCION REMOTA AVANZADA</title>
 <style>
-/* Default styles provided by pandoc.
-** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-*/
+code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -45,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-547b8bf330a8b3ac2679387b965bde2c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-2732ace4a5a76061a49c1d44a0545a3e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -81,17 +75,17 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../../css/syllabus.css">
 <meta property="og:title" content="🗓️ Week 4 - CNNs for image classification – PERCEPCION REMOTA AVANZADA">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://ials.github.io/PRA2026/2026/weeks/week04/figures/CNNDL.png">
+<meta property="og:image" content="https://ials.github.io/PRA2026/2026/weeks/week04/figures/MINIST.png">
 <meta property="og:site_name" content="PERCEPCION REMOTA AVANZADA">
-<meta property="og:image:height" content="1374">
-<meta property="og:image:width" content="1918">
+<meta property="og:image:height" content="1082">
+<meta property="og:image:width" content="1316">
 <meta name="twitter:title" content="🗓️ Week 4 - CNNs for image classification – PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://ials.github.io/PRA2026/2026/weeks/week04/figures/CNNDL.png">
+<meta name="twitter:image" content="https://ials.github.io/PRA2026/2026/weeks/week04/figures/MINIST.png">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
-<meta name="twitter:image-height" content="1374">
-<meta name="twitter:image-width" content="1918">
+<meta name="twitter:image-height" content="1082">
+<meta name="twitter:image-width" content="1316">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -234,13 +228,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#classroom-tasks" id="toc-classroom-tasks" class="nav-link active" data-scroll-target="#classroom-tasks">Classroom tasks</a>
-  <ul class="collapse">
-  <li><a href="#task-1" id="toc-task-1" class="nav-link" data-scroll-target="#task-1">👨‍🏫 Task 1</a></li>
-  <li><a href="#task-2" id="toc-task-2" class="nav-link" data-scroll-target="#task-2">👨‍🏫 Task 2</a></li>
-  </ul></li>
+  <li><a href="#classroom-practical-task" id="toc-classroom-practical-task" class="nav-link active" data-scroll-target="#classroom-practical-task">👨‍ Classroom Practical Task</a></li>
   <li><a href="#assignment" id="toc-assignment" class="nav-link" data-scroll-target="#assignment">Assignment</a></li>
-  <li><a href="#reading" id="toc-reading" class="nav-link" data-scroll-target="#reading">Reading</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -272,28 +262,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In this week, we will get to know <a href="https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns">what are convolutional neural networks</a></p>
-<section id="classroom-tasks" class="level2">
-<h2 class="anchored" data-anchor-id="classroom-tasks">Classroom tasks</h2>
-<section id="task-1" class="level3">
-<h3 class="anchored" data-anchor-id="task-1">👨‍🏫 Task 1</h3>
-<p>Watch the tutorial <a href="https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network">CNN in Deep Learning</a></p>
-<p><img src="figures/CNNDL.png" class="img-fluid"></p>
-</section>
-<section id="task-2" class="level3">
-<h3 class="anchored" data-anchor-id="task-2">👨‍🏫 Task 2</h3>
-<p>Build a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this <a href="https://thedatafrog.com/en/articles/dogs-vs-cats/">tutorial</a></p>
-<p><img src="figures/dogs_vs_cats.png" class="img-fluid"></p>
-<p>You can download the <em>Kaggle Cats and Dogs Dataset</em> <a href="https://www.microsoft.com/en-us/download/details.aspx?id=54765">from here</a>.</p>
-</section>
+<p>In this week, we will get to know <a href="https://drive.google.com/file/d/1hPY6L8Z-cRCqveZbLdr0TQZo_SSsamvU/view?usp=sharing">what are convolutional neural networks</a></p>
+<section id="classroom-practical-task" class="level2">
+<h2 class="anchored" data-anchor-id="classroom-practical-task">👨‍ Classroom Practical Task</h2>
+<p>Reproduce a convolutional neural network to classify MNIST digits.</p>
+<p><img src="figures/MINIST.png" class="img-fluid"></p>
+<p>You can download the <em>Chapter 3’s Jupyter notebook</em> and the <em>idlman.py script</em> <a href="https://github.com/EdwardRaff/Inside-Deep-Learning">from here</a>.</p>
 </section>
 <section id="assignment" class="level2">
 <h2 class="anchored" data-anchor-id="assignment">Assignment</h2>
-<p>Make sure you complete both tasks within this week. In your physical notebook, summarize what have you learned from both of them.</p>
+<p>Make sure you complete the practical task within this week. In your physical notebook, summarize what have you learned from it.</p>
 </section>
-<section id="reading" class="level2">
-<h2 class="anchored" data-anchor-id="reading">Reading</h2>
-<p>Read (and take notes) of the article <a href="https://drive.google.com/file/d/1wGEP-apFKjtBe5XdjpRy9wgtLgpyxTJ1/view?usp=sharing"><em>Ten deep learning techniques to address small data problems with remote sensing</em></a></p>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<ul>
+<li><p>Read <a href="https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view"><em>Inside Deep Learning’s Chapter 3</em></a></p></li>
+<li><p>Watch <a href="https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network">CNN in Deep Learning</a></p></li>
+</ul>
+<p><img src="figures/CNNDL.png" class="img-fluid"></p>
 
 
 </section>
@@ -350,14 +336,13 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-      const outerScaffold = trigger.parentElement.cloneNode(true);
-      const codeEl = outerScaffold.querySelector('code');
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
         }
-      }
-      return codeEl.innerText;
+        return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
