@@ -2,34 +2,27 @@
 title: "🗓️ Week 4  - CNNs for image classification"
 ---
 
-In this  week, we will get to know [what are convolutional neural networks](https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns)
+In this  week, we will get to know [what are convolutional neural networks](https://drive.google.com/file/d/1hPY6L8Z-cRCqveZbLdr0TQZo_SSsamvU/view?usp=sharing)
 
 
-## Classroom tasks
+## 👨‍ Classroom Practical Task 
 
+Reproduce a convolutional neural network to classify MNIST digits. 
 
-### 👨‍🏫 Task 1
+![](figures/MINIST.png)
 
-Watch the tutorial [CNN in Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network)
-
-![](figures/CNNDL.png)
-
-
-###  👨‍🏫 Task 2
-
-Build a convolutional neural network from scratch to classify images into two categories. For such a task, follow each step from this [tutorial](https://thedatafrog.com/en/articles/dogs-vs-cats/)
-
-![](figures/dogs_vs_cats.png)
-
-You can download the *Kaggle Cats and Dogs Dataset* [from here](https://www.microsoft.com/en-us/download/details.aspx?id=54765).
+You can download the *Chapter 3's Jupyter notebook* and the *idlman.py script* [from here](https://github.com/EdwardRaff/Inside-Deep-Learning). 
 
 ## Assignment
 
-Make sure you complete both tasks within this week. In your physical notebook, summarize what have you learned from both of them.
+Make sure you complete the practical task within this week. In your physical notebook, summarize what have you learned from it.
 
-## Reading
+## References
 
-Read (and take notes) of the article [*Ten deep learning techniques to address small data problems with
-remote sensing*](https://drive.google.com/file/d/1wGEP-apFKjtBe5XdjpRy9wgtLgpyxTJ1/view?usp=sharing)
+- Read [*Inside Deep Learning's Chapter 3*](https://drive.google.com/file/d/1UngESG-Hw7S86IwhYre23hVMSaCN27hA/view)
+
+- Watch  [CNN in Deep Learning](https://www.simplilearn.com/tutorials/deep-learning-tutorial/convolutional-neural-network)
+
+![](figures/CNNDL.png)
 
 
