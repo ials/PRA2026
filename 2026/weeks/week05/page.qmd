@@ -2,7 +2,7 @@
 title: "🗓️ Week 5 - CNN hyperparameters optimization "
 ---
 
-In this  week, we will learn  a Convolutional Neural Network for semantic segmentation of aerial images.
+In this  week, we will learn how to build and train a Convolutional Neural Network for crop disease classification.
 
 
 ## 👨‍🏫 Theory
