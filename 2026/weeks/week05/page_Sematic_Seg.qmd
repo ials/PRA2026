@@ -1,0 +1,27 @@
+---
+title: "🗓️ Week 5 - Deep Nets for Earth Observation "
+---
+
+In this  week, we will see a  PyTorch implementation of a Convolutional Neural Network for semantic segmentation of aerial images.
+
+
+## 👨‍🏫 Theory
+
+[Slides](https://drive.google.com/file/d/1-aTASj7l8WXNsVuOgYAEqzfe9V8jJeJi/view?usp=sharing)
+
+![](figures/DL4RS.png)
+
+
+## 👨‍🏫 Practical
+
+Build a convolutional neural network  for semantic segmentation of urban land cover from orthoimages. Replicate [this Colab notebook](https://colab.research.google.com/drive/1xnZDpnejdhGjENL5JiaohJIS7n3oAPel?usp=sharing)
+
+![](figures/epoch4_10.png)
+
+Make sure you complete the practical within thos week. In your PRA notebook, summarize what have you learned.
+
+## Reading
+
+[Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](https://arxiv.org/abs/1609.06846)
+
+

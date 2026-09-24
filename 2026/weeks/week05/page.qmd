@@ -1,27 +1,28 @@
 ---
-title: "🗓️ Week 5 - Deep Nets for Earth Observation "
+title: "🗓️ Week 5 - CNN hyperparameters optimization "
 ---
 
-In this  week, we will see a  PyTorch implementation of a Convolutional Neural Network for semantic segmentation of aerial images.
+In this  week, we will learn  a Convolutional Neural Network for semantic segmentation of aerial images.
 
 
 ## 👨‍🏫 Theory
 
-[Slides](https://drive.google.com/file/d/1-aTASj7l8WXNsVuOgYAEqzfe9V8jJeJi/view?usp=sharing)
+[Slides](https://drive.google.com/file/d/1kT6TdVa_xtoqKUjdqE3L4yEy020mudZ4/view?usp=sharing)
 
-![](figures/DL4RS.png)
+![](figures/CNN.png)
 
 
 ## 👨‍🏫 Practical
 
-Build a convolutional neural network  for semantic segmentation of urban land cover from orthoimages. Replicate [this Colab notebook](https://colab.research.google.com/drive/1xnZDpnejdhGjENL5JiaohJIS7n3oAPel?usp=sharing)
+Build a CNN  using PyTorch to classify plant leaf plants diseases across 38 categories. The goal is to build a complete deep learning pipeline — from data preprocessing to model training, evaluation, and inference — while gaining a strong understanding of CNN internals and GPU-accelerated training.
 
-![](figures/epoch4_10.png)
+We will use the *PlantVillage Dataset* composed of 54306 images of healthy and diseased plant leaves. It covers 14 crop species and 26 diseases.
 
-Make sure you complete the practical within thos week. In your PRA notebook, summarize what have you learned.
+![](figures/plantvillage.png)
+
+Reproduce the experiment described [here](https://github.com/KandarpJoshi1112/plant-disease-detection-cnn-pytorch).
 
 ## Reading
 
-[Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](https://arxiv.org/abs/1609.06846)
-
+[Using Deep Learning for Image-Based Plant Disease Detection](https://public-pages-files-2025.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2016.01419/pdf)
 
