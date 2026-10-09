@@ -9,7 +9,7 @@ In this  week, we will learn how to use a Convolutional Neural Network for seman
 
 [Slides](https://drive.google.com/file/d/1ZBB_FsCDz96V8MWxBU7_iD_X_ba1XVSe/view?usp=sharing)
 
-![](figures/SematicSegmentation.png)
+![](figures/NRCan.png)
 
 
 ## 👨‍🏫 Practical
