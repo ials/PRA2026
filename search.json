@@ -1,5 +1,200 @@
 [
   {
+    "objectID": "2026/weeks/week07/slides.html#introduction-1",
+    "href": "2026/weeks/week07/slides.html#introduction-1",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Introduction (1)",
+    "text": "Introduction (1)\nSAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties."
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#introduction-2",
+    "href": "2026/weeks/week07/slides.html#introduction-2",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Introduction (2)",
+    "text": "Introduction (2)\nSeveral descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity)."
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#study-area",
+    "href": "2026/weeks/week07/slides.html#study-area",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Study Area",
+    "text": "Study Area"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#sar-data",
+    "href": "2026/weeks/week07/slides.html#sar-data",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "SAR data",
+    "text": "SAR data"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#in-situ-data",
+    "href": "2026/weeks/week07/slides.html#in-situ-data",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "in-situ data",
+    "text": "in-situ data"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#methods",
+    "href": "2026/weeks/week07/slides.html#methods",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Methods",
+    "text": "Methods\n\nSAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)\nVegetation description (NDVI, RVIdp, DpRVIc)\nSoil moisture estimation (Water Cloud Model-)"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#results",
+    "href": "2026/weeks/week07/slides.html#results",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Results",
+    "text": "Results"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#take-home-message",
+    "href": "2026/weeks/week07/slides.html#take-home-message",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Take-home message",
+    "text": "Take-home message\n\nKnow the physics\nStart simple\nProgress smoothly"
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#checklist",
+    "href": "2026/weeks/week07/slides.html#checklist",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Checklist",
+    "text": "Checklist\nYour Informe 1 should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion."
+  },
+  {
+    "objectID": "2026/weeks/week07/slides.html#to-do-before-next-class",
+    "href": "2026/weeks/week07/slides.html#to-do-before-next-class",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "To do before next class",
+    "text": "To do before next class\n\nImplement and test your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
+  },
+  {
+    "objectID": "2026/weeks/week07/page.html",
+    "href": "2026/weeks/week07/page.html",
+    "title": "🗓️ Week 7 -Semantic Segmentation",
+    "section": "",
+    "text": "In this week, we will learn how to use a Convolutional Neural Network for semantic segmentation of aerial images.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week07/page.html#slides",
+    "href": "2026/weeks/week07/page.html#slides",
+    "title": "🗓️ Week 7 -Semantic Segmentation",
+    "section": "👨‍🏫 Slides",
+    "text": "👨‍🏫 Slides\nSlides",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week07/page.html#practical",
+    "href": "2026/weeks/week07/page.html#practical",
+    "title": "🗓️ Week 7 -Semantic Segmentation",
+    "section": "👨‍🏫 Practical",
+    "text": "👨‍🏫 Practical\nBuild a convolutional neural network for semantic segmentation of buildings. Replicate this notebook\nMake sure you complete the practical within this week. Then, write a 5-min presentation summarizing what have you learned.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week07/page.html#reading",
+    "href": "2026/weeks/week07/page.html#reading",
+    "title": "🗓️ Week 7 -Semantic Segmentation",
+    "section": "Reading",
+    "text": "Reading\nSemantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 07"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#introduction-1",
+    "href": "2026/weeks/week06/slides.html#introduction-1",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Introduction (1)",
+    "text": "Introduction (1)\nSAR is sensitive to the dielectric and geometric properties of a target. The intensity and scattering of SAR responses are impacted by the volume of water in the soil, the surface roughness, and the vegetation cover. For bare soil conditions, backscatter intensity is linearly related to volumetric soil moisture. The use of bare soil models to estimate soil moisture under vegetated conditions yields high soil moisture uncertainties."
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#introduction-2",
+    "href": "2026/weeks/week06/slides.html#introduction-2",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Introduction (2)",
+    "text": "Introduction (2)\nSeveral descriptors such as the Radar Vegetation Index (RVI) for dual-pol, Dual-Pol SAR Vegetation Index (DPSVI), and Dual-pol Radar Vegetation Index (DpRVI) have been developed for crop growth monitoring and biophysical parameter retrieval. These descriptors do not exploit the complete polarimetric information in characterizing a target. Bhogapurapu et al. (2022) introduced a novel vegetation descriptor that exploits the available polarimetric information in dualpol GRD SAR data (i.e purity and intensity)."
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#study-area",
+    "href": "2026/weeks/week06/slides.html#study-area",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Study Area",
+    "text": "Study Area"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#sar-data",
+    "href": "2026/weeks/week06/slides.html#sar-data",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "SAR data",
+    "text": "SAR data"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#in-situ-data",
+    "href": "2026/weeks/week06/slides.html#in-situ-data",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "in-situ data",
+    "text": "in-situ data"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#methods",
+    "href": "2026/weeks/week06/slides.html#methods",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Methods",
+    "text": "Methods\n\nSAR data processing (multilooking, 3x3 pol covar, de-speckling, 2x2 pol covar, intensity normalization)\nVegetation description (NDVI, RVIdp, DpRVIc)\nSoil moisture estimation (Water Cloud Model-)"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#results",
+    "href": "2026/weeks/week06/slides.html#results",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Results",
+    "text": "Results"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#take-home-message",
+    "href": "2026/weeks/week06/slides.html#take-home-message",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Take-home message",
+    "text": "Take-home message\n\nKnow the physics\nStart simple\nProgress smoothly"
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#checklist",
+    "href": "2026/weeks/week06/slides.html#checklist",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "Checklist",
+    "text": "Checklist\nYour Informe 1 should include: (i) definition of objectives; (ii) relevant theory (i.e. SAR physics); (iii) sound explanation of data & methods; (iv) results; and (v) discussion."
+  },
+  {
+    "objectID": "2026/weeks/week06/slides.html#to-do-before-next-class",
+    "href": "2026/weeks/week06/slides.html#to-do-before-next-class",
+    "title": "🗓️ Week 6soil moisture from SAR",
+    "section": "To do before next class",
+    "text": "To do before next class\n\nImplement and test your workflow\nWrite a single-page progress report\nPrint it and bring it to class."
+  },
+  {
+    "objectID": "2026/weeks/week06/page.html",
+    "href": "2026/weeks/week06/page.html",
+    "title": "🗓️ Week 6 - Reading week",
+    "section": "",
+    "text": "This week, we will review the course readings in preparation for the written examination.\n\n\n\n\n\n\n👨‍🏫 Readings",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 06"
+    ]
+  },
+  {
     "objectID": "2026/weeks/week05/slides_workflows.html#the-importance-of-workflows",
     "href": "2026/weeks/week05/slides_workflows.html#the-importance-of-workflows",
     "title": "🗓️ Week 5More SAR workflows",
@@ -102,7 +297,7 @@
     "href": "2026/weeks/week05/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
-    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
     "objectID": "2026/weeks/week04/page.html",
@@ -567,7 +762,7 @@
     "href": "2026/syllabus.html#descripción-de-la-asignatura",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nImportantOBJETIVOS:\n\n\n\n\n\n\nConocer nuevos conceptos y técnicas de análisis de datos de percepción remota\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nEntender los conceptos básicos de deep learning aplicado a datos de observación terrestre\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory\n\n\n\nUSO DE INTELIGENCIA ARTIFICIAL\nLos estudiantes pueden usar herramientas de Inteligencia Artifical como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal. En este curso se permite el uso de IA generativa hasta un máximo del 50 % de cada trabajo presentado.\n\n\nASISTENCIA OBLIGATORIA",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nConocer nuevos conceptos y técnicas de análisis de datos de percepción remota\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nEntender los conceptos básicos de deep learning aplicado a datos de observación terrestre\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory\n\n\n\nUSO DE INTELIGENCIA ARTIFICIAL\nLos estudiantes pueden usar herramientas de Inteligencia Artifical como un apoyo, y no como un sustituto, del pensamiento, el esfuerzo y el estilo personal. En este curso se permite el uso de IA generativa hasta un máximo del 50 % de cada trabajo presentado.\n\n\nASISTENCIA OBLIGATORIA",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -577,7 +772,7 @@
     "href": "2026/syllabus.html#contenido-detallado",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nImportantUnidad 1 – Percepción remota multi-espectral\n\n\n\n\n\n\nUnidad 2 - Percepción remota hiper-espectral\n\n\nUnidad 3 - Percepción remota termal\n\n\nUnidad 4 – Principios de aprendizaje profundo\n\n\nUnidad 5 – Redes neuronales convolucionales\n\n\nUnidad 6 – Aprendizaje autosupervisado\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos geoespaciales",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 1 – Percepción remota multi-espectral\n\n\n\n\n\n\nUnidad 2 - Percepción remota hiper-espectral\n\n\nUnidad 3 - Percepción remota termal\n\n\nUnidad 4 – Principios de aprendizaje profundo\n\n\nUnidad 5 – Redes neuronales convolucionales\n\n\nUnidad 6 – Aprendizaje autosupervisado\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos geoespaciales",
     "crumbs": [
       "📓 Syllabus"
     ]
@@ -614,7 +809,7 @@
     "href": "2026/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "Important📢 Prepare a five-minutes presentation on your Informe 1 progress\n\n\n\n\n\n(17/09/2026)\n🗓️ Bring your slides to the classroom. Make sure to include:\n\nResearch question\nStudy area\nData description (both reference and imagery)\nProgress (in reference to your workflow)\n\n\n\n\n\n\n\n\n\n\nImportant📢 Write a one-page proposal for your Informes\n\n\n\n\n\n(09/09/2026)\n🗓️ Bring your Informe 1 proposal to the classroom. Make sure to include:\n\nResearch question\nStudy area\nData description (both reference samples and imagery)\nMethodology (a general workflow)\nReference Study\n\n\n\n\n\n\n\n\n\n\nImportant📢 Join PRA group at Data Camp\n\n\n\n\n\n(05/09/2026)\n\n🗓️ Please ensure you complete the Introduction to DL with PyTorch course by the due date.\n\n\n\n\n\n\n\n\n\n\nImportant📢 Syllabus\n\n\n\n\n\n(27/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 9:00 am - 10:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "text": "📢 Prepare a five-minutes presentation on your Informe 1 progress\n\n\n\n\n\n(17/09/2026)\n🗓️ Bring your slides to the classroom. Make sure to include:\n\nResearch question\nStudy area\nData description (both reference and imagery)\nProgress (in reference to your workflow)\n\n\n\n\n\n\n\n\n\n\n📢 Write a one-page proposal for your Informes\n\n\n\n\n\n(09/09/2026)\n🗓️ Bring your Informe 1 proposal to the classroom. Make sure to include:\n\nResearch question\nStudy area\nData description (both reference samples and imagery)\nMethodology (a general workflow)\nReference Study\n\n\n\n\n\n\n\n\n\n\n📢 Join PRA group at Data Camp\n\n\n\n\n\n(05/09/2026)\n\n🗓️ Please ensure you complete the Introduction to DL with PyTorch course by the due date.\n\n\n\n\n\n\n\n\n\n\n📢 Syllabus\n\n\n\n\n\n(27/08/2026)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Tuesdays 9:00 am - 10:00 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
     "crumbs": [
       "🏠 Home"
     ]
@@ -697,14 +892,14 @@
     "href": "2026/weeks/week02/lab.html#tutorial-dataset",
     "title": "🗓️ Week 02 - Practical exercise",
     "section": "👨‍🏫 Tutorial Dataset",
-    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nImportantSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImportantSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
+    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
   },
   {
     "objectID": "2026/weeks/week02/lab.html#important",
     "href": "2026/weeks/week02/lab.html#important",
     "title": "🗓️ Week 02 - Practical exercise",
     "section": "✍️ Important",
-    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nImportantAfter ordering, you have to wait …"
+    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
   },
   {
     "objectID": "2026/weeks/week02/lab.html#recommended-reading",
@@ -790,7 +985,7 @@
     "href": "2026/weeks/week03/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
-    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repositorz and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repositorz and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
     "objectID": "2026/weeks/week03/slides.html#bad-news-good-news",
@@ -979,7 +1174,7 @@
     "href": "2026/weeks/week04/lab.html",
     "title": "🗓️ Week 03 - Practical exercise",
     "section": "",
-    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nNoteAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
   },
   {
     "objectID": "2026/weeks/week04/slides.html#the-importance-of-workflows",
@@ -1071,7 +1266,7 @@
     "href": "2026/weeks/week05/page.html#practical",
     "title": "🗓️ Week 5 - CNN hyperparameters optimization",
     "section": "👨‍🏫 Practical",
-    "text": "👨‍🏫 Practical\nBuild a CNN using PyTorch to classify plant leaf plants diseases across 38 categories.\n\n\n\n\n\n\nImportant📢 PlantDiseaseCNN\n\n\n\n\n\n\n\n\n\nThe goal is to build a complete deep learning pipeline — from data preprocessing to model training, evaluation, and inference — while gaining a strong understanding of CNN internals and GPU-accelerated training.\nWe will use the PlantVillage Dataset composed of 54306 images of healthy and diseased plant leaves. It covers 14 crop species and 26 diseases.\n\nReproduce the experiment described here.",
+    "text": "👨‍🏫 Practical\nBuild a CNN using PyTorch to classify plant leaf plants diseases across 38 categories.\n\n\n\n\n\n\n📢 PlantDiseaseCNN\n\n\n\n\n\n\n\n\n\nThe goal is to build a complete deep learning pipeline — from data preprocessing to model training, evaluation, and inference — while gaining a strong understanding of CNN internals and GPU-accelerated training.\nWe will use the PlantVillage Dataset composed of 54306 images of healthy and diseased plant leaves. It covers 14 crop species and 26 diseases.\n\nReproduce the experiment described here.",
     "crumbs": [
       "🗓️ Weeks",
       "Week 05"
@@ -1157,5 +1352,82 @@
     "title": "🗓️ Week 5More SAR workflows",
     "section": "Watch this video",
     "text": "Watch this video\nOperational Crop Classification Roadmap using Optical and SAR Imagery\nARSET (2021)"
+  },
+  {
+    "objectID": "2026/weeks/week06/lab.html",
+    "href": "2026/weeks/week06/lab.html",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2026/weeks/week06/page_lighning.html",
+    "href": "2026/weeks/week06/page_lighning.html",
+    "title": "🗓️ Week 6 -PyTorch Lightning",
+    "section": "",
+    "text": "In this week, we will get to know PyTorch Lightning a deep learning framework for AI research."
+  },
+  {
+    "objectID": "2026/weeks/week06/page_lighning.html#lecture-slides",
+    "href": "2026/weeks/week06/page_lighning.html#lecture-slides",
+    "title": "🗓️ Week 6 -PyTorch Lightning",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides."
+  },
+  {
+    "objectID": "2026/weeks/week06/page_lighning.html#first-report",
+    "href": "2026/weeks/week06/page_lighning.html#first-report",
+    "title": "🗓️ Week 6 -PyTorch Lightning",
+    "section": "First report",
+    "text": "First report\nStudents keep working for their first report"
+  },
+  {
+    "objectID": "2026/weeks/week06/page_lighning.html#recommended-reading",
+    "href": "2026/weeks/week06/page_lighning.html#recommended-reading",
+    "title": "🗓️ Week 6 -PyTorch Lightning",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\nFrom PyTorch to PyTorch Lightning"
+  },
+  {
+    "objectID": "2026/weeks/week07/lab.html",
+    "href": "2026/weeks/week07/lab.html",
+    "title": "🗓️ Week 7 -Data Fusion",
+    "section": "",
+    "text": "Preparing Sentinel-1 Analysis Ready Data in GEE\nGEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application.\nWhile radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.\nFor a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.\nThus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications.\n\n\nThe Mullisa workflow\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\n\n\n\nHands-on exercise\nThe framework is implemented in both GEE Javascript and the Python application programming interface (API).\nTo use the framework in GEE code editor, go to this repository and copy the contents of the s1_ard.js script to your own repository. The path to the preprocessing functions is a public so you don’t need to copy them.\nWhen using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.\nClick here to try it.\n\n\n\n\n\n\nAdditional resources\n\n\n\n\n\n\nMullisa’s paper\n\n\nMullisa’s repository\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2026/weeks/week07/page_datafusion.html",
+    "href": "2026/weeks/week07/page_datafusion.html",
+    "title": "🗓️ Week 7 - Data Fusion",
+    "section": "",
+    "text": "In this week, we will get familiar with different techniques for conducting Data Fusion with Earth Observation data. For such purpose we will use material from the Efficient Deep Learning EO workshop (IGARSS 2024)."
+  },
+  {
+    "objectID": "2026/weeks/week07/page_datafusion.html#lecture-slides",
+    "href": "2026/weeks/week07/page_datafusion.html#lecture-slides",
+    "title": "🗓️ Week 7 - Data Fusion",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides."
+  },
+  {
+    "objectID": "2026/weeks/week07/page_datafusion.html#practical-exercises",
+    "href": "2026/weeks/week07/page_datafusion.html#practical-exercises",
+    "title": "🗓️ Week 7 - Data Fusion",
+    "section": "Practical exercises",
+    "text": "Practical exercises\n\nIGARSS 2024 data fusion tutorial"
+  },
+  {
+    "objectID": "2026/weeks/week07/page_datafusion.html#first-report-submission",
+    "href": "2026/weeks/week07/page_datafusion.html#first-report-submission",
+    "title": "🗓️ Week 7 - Data Fusion",
+    "section": "First report submission",
+    "text": "First report submission\nStudents upload their first report on time at this link."
+  },
+  {
+    "objectID": "2026/weeks/week07/page_datafusion.html#recommended-reading",
+    "href": "2026/weeks/week07/page_datafusion.html#recommended-reading",
+    "title": "🗓️ Week 7 - Data Fusion",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nBen-ge: Extending BigEarthNet with Geographical and Environmental Data"
   }
 ]
