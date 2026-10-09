@@ -1,0 +1,24 @@
+---
+title: "🗓️ Week 7  - Data Fusion "
+---
+
+In this  week, we will get familiar with different techniques for conducting Data Fusion with Earth Observation data. For such purpose we will use material from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://drive.google.com/file/d/1CHT1_xfl9VbloScoza5-kvLeN-Z-KL7n/view?usp=sharing) to view the slides.
+
+## Practical exercises
+
+- [IGARSS 2024 data fusion tutorial](https://github.com/mommermi/IGARSS2024_DataEfficientDeepLearningEO/tree/main)
+
+
+## First report submission
+
+**Students upload their first report on time** at [this link](https://drive.google.com/drive/folders/1vcK0wC55TCt8XBSHs4erWci6iw2QBob3?usp=sharing).
+
+
+## 📚 Recommended Reading
+
+- [Ben-ge: Extending BigEarthNet with Geographical and Environmental Data](https://arxiv.org/abs/2307.01741)
+

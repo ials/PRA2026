@@ -1,19 +1,16 @@
 ---
-title: "🗓️ Week 6 -PyTorch Lightning "
+title: "🗓️ Week 6 - Reading week "
 ---
 
-In this  week, we will get to know *PyTorch Lightning* a deep learning framework for  AI research.
+This week, we will review the course readings in preparation for the written examination.
 
-## 👨‍🏫 Lecture Slides 
+::: {.callout-important collapse=true}
+## 👨‍🏫 Readings
 
-Click [here](https://tugot17.github.io/Pytorch-Lightning-Presentation/#/) to view the slides.
+![](figures/readings.png)
 
-## First report 
-
-**Students keep working for their first report**
+:::
 
 
-## 📚 Recommended Reading
 
-[From PyTorch to PyTorch Lightning](https://medium.com/data-science/from-pytorch-to-pytorch-lightning-a-gentle-introduction-b371b7caaf09)
 

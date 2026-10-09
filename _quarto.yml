@@ -10,6 +10,8 @@ project:
     - "2026/weeks/week03/*.qmd"
     - "2026/weeks/week04/*.qmd"
     - "2026/weeks/week05/*.qmd"
+    - "2026/weeks/week06/*.qmd"
+    - "2026/weeks/week07/*.qmd"
 
 website:
   title: "PERCEPCION REMOTA AVANZADA"
@@ -56,6 +58,16 @@ website:
            text: Week 05
            contents:
              - href: 2026/weeks/week05/page.qmd
+               text: 👨‍🏫 Lecture Material
+         - href: 2026/weeks/week06/page.qmd
+           text: Week 06
+           contents:
+             - href: 2026/weeks/week06/page.qmd
+               text: 👨‍🏫 Lecture Material
+         - href: 2026/weeks/week07/page.qmd
+           text: Week 07
+           contents:
+             - href: 2026/weeks/week07/page.qmd
                text: 👨‍🏫 Lecture Material
 
 

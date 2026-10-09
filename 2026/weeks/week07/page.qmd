@@ -1,24 +1,25 @@
 ---
-title: "🗓️ Week 7  - Data Fusion "
+title: "🗓️ Week 7  -Semantic Segmentation "
 ---
 
-In this  week, we will get familiar with different techniques for conducting Data Fusion with Earth Observation data. For such purpose we will use material from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
-
-## 👨‍🏫 Lecture Slides 
-
-Click [here](https://drive.google.com/file/d/1CHT1_xfl9VbloScoza5-kvLeN-Z-KL7n/view?usp=sharing) to view the slides.
-
-## Practical exercises
-
-- [IGARSS 2024 data fusion tutorial](https://github.com/mommermi/IGARSS2024_DataEfficientDeepLearningEO/tree/main)
+In this  week, we will learn how to use a Convolutional Neural Network for semantic segmentation of aerial images.
 
 
-## First report submission
+## 👨‍🏫 Slides
 
-**Students upload their first report on time** at [this link](https://drive.google.com/drive/folders/1vcK0wC55TCt8XBSHs4erWci6iw2QBob3?usp=sharing).
+[Slides](https://drive.google.com/file/d/1ZBB_FsCDz96V8MWxBU7_iD_X_ba1XVSe/view?usp=sharing)
+
+![](figures/SematicSegmentation.png)
 
 
-## 📚 Recommended Reading
+## 👨‍🏫 Practical
 
-- [Ben-ge: Extending BigEarthNet with Geographical and Environmental Data](https://arxiv.org/abs/2307.01741)
+Build a convolutional neural network  for semantic segmentation of buildings. Replicate [this  notebook](https://drive.google.com/file/d/173ysNXrYqHCdD-NP5Ecj0GCZ1BGsS_PP/view?usp=sharing)
+
+Make sure you complete the practical within this week. Then, write a 5-min presentation summarizing what have you learned.
+
+## Reading
+
+[Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](https://arxiv.org/abs/1609.06846)
+
 
