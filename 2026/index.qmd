@@ -4,6 +4,15 @@ subtitle: "Academic Year: 2026"
 format: html
 ---
 
+::: {.callout-important collapse=false}
+## 📢  Informe No. 1 is due on 27 October
+
+
+🗓️  Upload your Informe No. 1 [here]()
+
+:::
+
+
 ::: {.callout-important collapse=true}
 ## 📢 Prepare a five-minutes presentation on your *Informe 1* progress
 

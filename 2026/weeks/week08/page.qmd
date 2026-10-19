@@ -1,18 +1,13 @@
 ---
-title: "🗓️ Week 8  - Multi_Task Learning "
+title: "🗓️ Week 8  - Examination week "
 ---
 
-In this  week, we will learn how to implement and train  a **deep multitask model** using Earth Observation data for different downstream tasks such as classification, segmentation, and regression. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
+Students should make sure to thoroughly review our five assigned readings before the upcoming exam.
 
-## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1KY9Sjd3UzLHd9f0nyBGBWPw17eygdHvh/view?usp=sharing) to view the slides.
+## 📚  Required readings
 
-## Practical exercises
+![](figures/readings.png)
 
-- [IGARSS 2024 multitask learning tutorial](https://github.com/HSG-AIML/IGARSS2023_EfficientDeepLearningEO/blob/main/02-mtl/lab_mtl.ipynb)
 
-## 📚  Required reading
-
-- [The Complete Guide to Recurrent Neural Networks](https://www.v7labs.com/blog/recurrent-neural-networks-guide)
 
