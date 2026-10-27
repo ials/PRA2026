@@ -18,7 +18,9 @@ Build a convolutional neural network  for semantic segmentation of buildings. Re
 
 Make sure you complete the practical within this week. Then, write a 5-min presentation summarizing what have you learned.
 
-## Reading
+## Readings
+
+[A comprehensive review of U-Net architectures for medical image segmentation](https://link.springer.com/article/10.1007/s00521-026-12198-6)
 
 [Semantic Segmentation of Earth Observation Data Using Multimodal and Multi-scale Deep Networks](https://arxiv.org/abs/1609.06846)
 
