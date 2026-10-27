@@ -1,27 +1,23 @@
 ---
-title: "🗓️ Week 9   - Self-supervised learning  "
+title: "🗓️ Week 9  - Multi_Task Learning "
 ---
 
-In this  week, we will implement either: (i) the self-supervised learning approaches for Earth Observation data. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024); or (ii) [a recurrent neural network](https://medium.com/data-science/animated-rnn-lstm-and-gru-ef124d06cf45)
+In this  week, we will learn how to implement and train  a **deep multitask model** using Earth Observation data for different downstream tasks such as classification, segmentation, and regression. We will reproduce experiments from the *Efficient Deep Learning EO workshop* (IGARSS 2024).
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](https://drive.google.com/file/d/1OsJpx-eoXt49uuK0AaE6oMreyMXtafbW/view?usp=sharing) to view the slides.
+Click [here](https://drive.google.com/file/d/1KY9Sjd3UzLHd9f0nyBGBWPw17eygdHvh/view?usp=sharing) to view the slides.
 
 ## Practical exercises
 
-Select a track relevant for your research: 
-
-- [IGARSS 2024 Self-supervised Learning](https://github.com/HSG-AIML/IGARSS2023_EfficientDeepLearningEO/tree/main/03-ssl)
-
-- [Train a recurrent neural network with PyTorch Lightning](https://lightning.ai/lightning-ai/studios/train-a-recurrent-neural-network-with-pytorch-lightning?view=public&section=featured)
-
-## 👨‍🏫 Informe No. 2
-
-Students replicate their reference study *using their own data*.
-
+- [IGARSS 2024 multitask learning tutorial](https://github.com/HSG-AIML/IGARSS2023_EfficientDeepLearningEO)
 
 ## 📚  Required reading
 
-- [Stand-Alone Self-Attention in Vision Models](https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf)
+- [The Complete Guide to Recurrent Neural Networks](https://www.v7labs.com/blog/recurrent-neural-networks-guide)
+
+## Examen No. 1 results
+
+Click [here](figures/PRA_2026_EX1.png)
+
 
