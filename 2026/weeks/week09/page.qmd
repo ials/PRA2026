@@ -14,7 +14,7 @@ Click [here](https://drive.google.com/file/d/1l3ckkI-rLHS1U3iQuf-Df62FQL1kFzHE/v
 
 ## 📚  Required reading
 
-- [The Complete Guide to Recurrent Neural Networks](https://www.v7labs.com/blog/recurrent-neural-networks-guide)
+- [Self-supervised Learning in Remote Sensing](https://arxiv.org/pdf/2206.13188)
 
 ## Examen No. 1 results
 
