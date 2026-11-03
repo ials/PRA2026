@@ -5,10 +5,11 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
-## 📢  Informe No. 1 is due on 27 October
+## 📢  Informe No. 1 
 
+![](PRA_INFORME1.png)
 
-🗓️  Upload your Informe No. 1 [here](https://drive.google.com/drive/folders/1p0NEJLCDr9F81VsXEBETzn_-eO1yrdWa?usp=sharing)
+[Informe 1's repository](https://drive.google.com/drive/folders/1p0NEJLCDr9F81VsXEBETzn_-eO1yrdWa?usp=sharing)
 
 :::
 
