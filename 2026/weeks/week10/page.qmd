@@ -13,7 +13,7 @@ Click [here](https://drive.google.com/file/d/180xwVtt_wqrjXcdoGQOUaPsuA6EbcTOw/v
 
 - [Vision Transformer Tutorial](https://colab.research.google.com/github/hirotomusiker/schwert_colab_data_storage/blob/master/notebook/Vision_Transformer_Tutorial.ipynb). Your notebook's results should look similar to [these ones](https://drive.google.com/file/d/1VBKtvBPTjrHxURSrgjG6LrwmKRfZnH3c/view?usp=sharing).
 
-- [Transformers for Computer Vision](https://lightning.ai/docs/pytorch/stable/notebooks/course_UvA-DL/11-vision-transformer.html)
+- [Transformers for Computer Vision](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial15/Vision_Transformer.html)
 
 ## Required Reading
 
