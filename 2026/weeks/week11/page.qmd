@@ -1,23 +1,23 @@
 ---
-title: "🗓️ Week 11 - Earth Foundation Models "
+title: "🗓️ Week 11 -Introducion to hyperspectral remote sensing "
 ---
 
-In this  week, we will get to know  *foundation models* for Earth Observation data.
+In this  week, we will learn basic concepts  *hyperspectral remote sensing*.
 
 
-## 👨‍🏫 Lecture 
+## 👨‍🏫 Slides 
 
-[Slides by DLR](https://drive.google.com/file/d/1YTBrJqagypL2eG97Xtyym4ShG9xbWB04/view?usp=sharing)
+TBD
 
 
 ## Practical
 
-Check [this repository](https://github.com/zhu-xlab/SSL4EO-S12) as well as [this one](https://github.com/AABNassim/spectral_earth).
+TBD
 
 ## Reading
 
 Make sure you complete this reading within this week.
 
-- [SSL4EO-S12](https://arxiv.org/abs/2211.07044#)
+[Hyperspectral remote sensing](https://drive.google.com/file/d/1i6NJEeKNzC9_Zs3UJeOKzXb-XnJAY6ed/view?usp=sharing)
 
 

@@ -1,0 +1,23 @@
+---
+title: "🗓️ Week 11 - Earth Foundation Models "
+---
+
+In this  week, we will get to know  *foundation models* for Earth Observation data.
+
+
+## 👨‍🏫 Lecture 
+
+[Slides by DLR](https://drive.google.com/file/d/1YTBrJqagypL2eG97Xtyym4ShG9xbWB04/view?usp=sharing)
+
+
+## Practical
+
+Check [this repository](https://github.com/zhu-xlab/SSL4EO-S12) as well as [this one](https://github.com/AABNassim/spectral_earth).
+
+## Reading
+
+Make sure you complete this reading within this week.
+
+- [SSL4EO-S12](https://arxiv.org/abs/2211.07044#)
+
+
