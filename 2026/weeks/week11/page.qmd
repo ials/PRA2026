@@ -7,7 +7,7 @@ In this  week, we will learn basic concepts  *hyperspectral remote sensing*.
 
 ## 👨‍🏫 Slides 
 
-TBD
+[Hyperspectral RS](https://drive.google.com/file/d/19Ip208TO0vFk958PL3j7Y8gsbUWcE_od/view?usp=sharing)
 
 
 ## Practical
