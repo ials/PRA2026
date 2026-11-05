@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "2026/weeks/week11/pageGFMs.html",
+    "href": "2026/weeks/week11/pageGFMs.html",
+    "title": "🗓️ Week 11 - Earth Foundation Models",
+    "section": "",
+    "text": "In this week, we will get to know foundation models for Earth Observation data."
+  },
+  {
+    "objectID": "2026/weeks/week11/pageGFMs.html#lecture",
+    "href": "2026/weeks/week11/pageGFMs.html#lecture",
+    "title": "🗓️ Week 11 - Earth Foundation Models",
+    "section": "👨‍🏫 Lecture",
+    "text": "👨‍🏫 Lecture\nSlides by DLR"
+  },
+  {
+    "objectID": "2026/weeks/week11/pageGFMs.html#practical",
+    "href": "2026/weeks/week11/pageGFMs.html#practical",
+    "title": "🗓️ Week 11 - Earth Foundation Models",
+    "section": "Practical",
+    "text": "Practical\nCheck this repository as well as this one."
+  },
+  {
+    "objectID": "2026/weeks/week11/pageGFMs.html#reading",
+    "href": "2026/weeks/week11/pageGFMs.html#reading",
+    "title": "🗓️ Week 11 - Earth Foundation Models",
+    "section": "Reading",
+    "text": "Reading\nMake sure you complete this reading within this week.\n\nSSL4EO-S12"
+  },
+  {
     "objectID": "2026/weeks/week10/slides.html#diverse-platforms-and-sensors",
     "href": "2026/weeks/week10/slides.html#diverse-platforms-and-sensors",
     "title": "🗓️ Week 09Remote sensing of vegetation",
@@ -1913,6 +1941,50 @@
     "crumbs": [
       "🗓️ Weeks",
       "Week 10"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week11/page.html",
+    "href": "2026/weeks/week11/page.html",
+    "title": "🗓️ Week 11 -Introducion to hyperspectral remote sensing",
+    "section": "",
+    "text": "In this week, we will learn basic concepts hyperspectral remote sensing.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week11/page.html#slides",
+    "href": "2026/weeks/week11/page.html#slides",
+    "title": "🗓️ Week 11 -Introducion to hyperspectral remote sensing",
+    "section": "👨‍🏫 Slides",
+    "text": "👨‍🏫 Slides\nTBD",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week11/page.html#practical",
+    "href": "2026/weeks/week11/page.html#practical",
+    "title": "🗓️ Week 11 -Introducion to hyperspectral remote sensing",
+    "section": "Practical",
+    "text": "Practical\nTBD",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
+    ]
+  },
+  {
+    "objectID": "2026/weeks/week11/page.html#reading",
+    "href": "2026/weeks/week11/page.html#reading",
+    "title": "🗓️ Week 11 -Introducion to hyperspectral remote sensing",
+    "section": "Reading",
+    "text": "Reading\nMake sure you complete this reading within this week.\nHyperspectral remote sensing",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 11"
     ]
   }
 ]
