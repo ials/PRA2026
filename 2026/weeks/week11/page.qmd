@@ -2,22 +2,31 @@
 title: "🗓️ Week 11 -Introducion to hyperspectral remote sensing "
 ---
 
-In this  week, we will learn basic concepts  *hyperspectral remote sensing*.
+In this  week, we will learn basic concepts about *hyperspectral remote sensing* focusing on the **EnMAP science program**.
 
 
 ## 👨‍🏫 Slides 
 
-[Hyperspectral RS](https://drive.google.com/file/d/19Ip208TO0vFk958PL3j7Y8gsbUWcE_od/view?usp=sharing)
+[EnMAP science activities](https://lps25.esa.int/lps25-presentations/presentations/867/_867.pdf)
 
 
 ## Practical
 
 TBD
 
-## Reading
+##  Assignment (50% Examen 2)
 
-Make sure you complete this reading within this week.
+Make sure you complete two online courses during this month:
 
-[Hyperspectral remote sensing](https://drive.google.com/file/d/1i6NJEeKNzC9_Zs3UJeOKzXb-XnJAY6ed/view?usp=sharing)
+- [*Introduction to Hyperspectral Remote Sensing*](https://eo-college.org/courses/beyond-the-visible/)
+
+- [Imaging Spectroscopy for Agricultural Applications](https://eo-college.org/courses/beyond-the-visible-imaging-spectroscopy-for-agricultural-applications/)  
+
+- [EnMAP data access and image preprocessing techniques](https://eo-college.org/courses/beyond-the-visible-enmap-data-access-and-image-preprocessing-techniques/)  
+
+- [Imaging Spectroscopy for Soil Applications](https://eo-college.org/courses/beyond-the-visible-imaging-spectroscopy-for-soil-applications/)  
+
+Upload your certificates [here](https://drive.google.com/drive/folders/1SzJW-AMDsCZFM8BauYwlIWnQ9J76K6W-?usp=sharing) not later than 30 November 2026 at 11:59 pm.
+
 
 
