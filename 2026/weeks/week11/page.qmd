@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 11 -Introducion to hyperspectral remote sensing "
+title: "🗓️ Week 11 -Introduction to hyperspectral remote sensing "
 ---
 
 In this  week, we will learn basic concepts about *hyperspectral remote sensing* focusing on the **EnMAP science program**.
