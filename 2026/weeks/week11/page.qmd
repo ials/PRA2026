@@ -12,7 +12,7 @@ In this  week, we will learn basic concepts about *hyperspectral remote sensing*
 
 ## Practical
 
-TBD
+[Regression based mapping of forest above ground biomass](https://drive.google.com/file/d/1O0nfESbzWuHhoIsS4Q3QsiaESFyvmoI9/view?usp=sharing)
 
 ##  Assignment (50% Examen 2)
 
