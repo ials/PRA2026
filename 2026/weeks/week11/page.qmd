@@ -14,6 +14,12 @@ In this  week, we will learn basic concepts about *hyperspectral remote sensing*
 
 [Regression based mapping of forest above ground biomass](https://drive.google.com/file/d/1O0nfESbzWuHhoIsS4Q3QsiaESFyvmoI9/view?usp=sharing)
 
+Select your own path:
+
+- [EnMAP-Box](https://enmap-box.readthedocs.io/en/latest/usr_section/application_tutorials/biomass_regression/tutorial.html)
+
+- [EnPT](https://drive.google.com/file/d/1yEcjd0XcYQxbsNtY-yjiVW_SRF_5TEd_/view?usp=sharing)
+
 ##  Assignment (50% Examen 2)
 
 Make sure you complete two online courses during this month:
