@@ -1,0 +1,27 @@
+---
+title: "🗓️ Week 12  -  Tessera foundation model embeddings  "
+---
+
+In this  week, we will explore the potential of an *interactive  embedding classifier* based on the Tessera foundation model.
+
+TESSERA was trained on over 3000 MGRS S1-S2 tiles distributed globally from 2017 to 2024.
+
+![](figures/Tessera.png)
+
+
+## 👨‍🏫 Lecture
+
+[Temporal Embeddings of Surface Spectra for Earth Representation and Analysis (TESSERA)](https://github.com/ucam-eo/tessera)
+
+
+## Practical
+
+- Install and run the tool available [here](https://github.com/ucam-eo/tessera-interactive-map) to classify land cover in your region of interest.
+
+- Discuss with your peers advantages and drawbacks of the tool.
+
+## Reading
+
+[*TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis*](https://arxiv.org/abs/2506.20380)
+
+
