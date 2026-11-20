@@ -1,0 +1,16 @@
+---
+title: "🗓️ Week 13 - Prithvi 2.0 "
+---
+
+In this  week, we will get familiar with Prithvi 2.0, another multitemporal Foundation Model for Earth Observation, built jointly by IBM and NASA. 
+
+
+## 👨‍🏫 Lecture
+
+[Video lecture](https://www.youtube.com/watch?v=CB3FKtmuPI8)
+
+## Reading
+
+- [Prithvi-EO-2.0: A Multi-Temporal Foundation Model for EO Applications](https://ntrs.nasa.gov/api/citations/20240015391/downloads/RSE%20Prithvi%20Global.pdf?)
+
+
