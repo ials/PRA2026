@@ -1,5 +1,5 @@
 ---
-title: "🗓️ Week 14 - Prithvi 2.0 "
+title: "🗓️ Week 13 - Prithvi 2.0 "
 ---
 
 In this  week, we will get familiar with Prithvi 2.0, another multitemporal Foundation Model for Earth Observation, built jointly by IBM and NASA. 
