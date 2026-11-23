@@ -1,27 +1,16 @@
 ---
-title: "🗓️ Week 13  -  Tessera foundation model embeddings  "
+title: "🗓️ Week 14 - Prithvi 2.0 "
 ---
 
-In this  week, we will explore the potential of an *interactive  embedding classifier* based on the Tessera foundation model.
-
-TESSERA was trained on over 3000 MGRS S1-S2 tiles distributed globally from 2017 to 2024.
-
-![](figures/Tessera.png)
+In this  week, we will get familiar with Prithvi 2.0, another multitemporal Foundation Model for Earth Observation, built jointly by IBM and NASA. 
 
 
 ## 👨‍🏫 Lecture
 
-[Temporal Embeddings of Surface Spectra for Earth Representation and Analysis (TESSERA)](https://github.com/ucam-eo/tessera)
-
-
-## Practical
-
-- Install and run the tool available [here](https://github.com/ucam-eo/tessera-interactive-map) to classify land cover in your region of interest.
-
-- Discuss with your peers advantages and drawbacks of the tool.
+[Video lecture](https://www.youtube.com/watch?v=CB3FKtmuPI8)
 
 ## Reading
 
-[*TESSERA: Precomputed FAIR Global Pixel Embeddings for Earth Representation and Analysis*](https://arxiv.org/abs/2506.20380)
+- [Prithvi-EO-2.0: A Multi-Temporal Foundation Model for EO Applications](https://ntrs.nasa.gov/api/citations/20240015391/downloads/RSE%20Prithvi%20Global.pdf?)
 
 
